@@ -1,0 +1,4337 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PasteBin.ca v1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-06-27 02:16-0600\n"
+"PO-Revision-Date: 2005-05-01 22:26-0700\n"
+"Last-Translator: Stephen Olesen <slepp@netmonks.ca>\n"
+"Language-Team: French <zebob@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+
+#: ../archives.php:18 ../index.php:394 ../old-archives.php:18
+msgid "no posts to display"
+msgstr "aucun message à afficher"
+
+#: ../archives.php:34 ../index.php:403 ../old-archives.php:34
+msgid "Sorry, the requested ID value is way too large or too small."
+msgstr ""
+"Désolé, la valeur d'identification demandée est trop grande ou trop petite."
+
+#: ../archives.php:38 ../old-archives.php:38
+msgid "post archives"
+msgstr "archives des messages"
+
+# This could also be 'archives not available' = "archive non disponible"
+#: ../archives.php:50 ../old-archives.php:50
+msgid "no archives yet"
+msgstr "pas encore d'archives"
+
+#: ../archives.php:51 ../old-archives.php:51
+msgid ""
+"Sorry, there are presently no archives of this pastebin since there are not "
+"enough posts. It requires at least 10 posts to create archives."
+msgstr ""
+"Désolé, il n'y a actuellement pas d'archives pour ce pastebin car il n'y a "
+"pas assez de messages.  Il faut au moins 10 messages pour créer des archives."
+
+#: ../archives.php:64 ../old-archives.php:61
+msgid "no such archive page"
+msgstr "il n'existe pas une telle page d'archives"
+
+#: ../archives.php:66 ../old-archives.php:63
+#, php-format
+msgid ""
+"There is no page %d in the archives. Perhaps try <a href=\"/archive1"
+"\">archive page 1</a>?"
+msgstr ""
+"Il n'y a aucune page %d dans les archives. Essayez peut-être <a href=\"/"
+"archive1\">page 1 d'archives</a>?"
+
+#: ../archives.php:80 ../old-archives.php:80
+#, php-format
+msgid "archive of all posts - page %d"
+msgstr "archives de tous les messages - page %d"
+
+#: ../archives.php:88 ../archives.php:113 ../old-archives.php:88
+#: ../old-archives.php:113
+msgid "other archive pages:"
+msgstr "autres pages d'archives:"
+
+#: ../archives.php:103 ../old-archives.php:103
+msgid "id"
+msgstr "identification"
+
+#: ../archives.php:103 ../old-archives.php:103
+msgid "title"
+msgstr "titre"
+
+#: ../archives.php:103 ../old-archives.php:103
+msgid "post date"
+msgstr "date du message"
+
+#: ../archives.php:103 ../old-archives.php:103
+msgid "age"
+msgstr "âge"
+
+#: ../archives.php:103 ../old-archives.php:103
+msgid "size"
+msgstr "taille"
+
+#: ../auction.php:18 ../auction.php:169 ../auction.php:179 ../auction.php:296
+#: ../auction.php:306
+msgid "Invalid Auction ID"
+msgstr "ID d'enchères invalide"
+
+#: ../auction.php:19 ../auction.php:170 ../auction.php:180 ../auction.php:297
+#: ../auction.php:307
+msgid "Invalid Auction ID request."
+msgstr "ID d'enchères invalide demande"
+
+#: ../auction.php:31 ../auction.php:33 ../auction.php:40
+msgid "Bidding Closed"
+msgstr "Enchères fermées"
+
+#: ../auction.php:33
+msgid ""
+"Sorry, you may not submit a bid. The item has ended. You may <a href="
+"\"auction.php\">return to the open auction list</a>."
+msgstr ""
+"Désolé vous ne pouvez pas soumettre d'offre. L'objet est terminé. Vous "
+"pouvez <a href=\"auction.php\">retourner à la liste d'enchères ouvertes</a>."
+
+#: ../auction.php:43
+msgid "Invalid Bid Amount"
+msgstr "Montant de l'offre invalide"
+
+#: ../auction.php:43
+msgid "You must enter a bid amount. Please do not include the dollar sign."
+msgstr ""
+"Vous devez enter un montant pour cette offre. Svp n'incluez pas le signe "
+"dollar"
+
+#: ../auction.php:53
+msgid "Missing Login Information"
+msgstr "Information login manquante"
+
+#: ../auction.php:56
+msgid "Missing Required Information"
+msgstr "Information requise manquante"
+
+#: ../auction.php:56
+msgid ""
+"You must provide an e-mail address or display name, as well as a password, "
+"to submit a bid with an existing account."
+msgstr ""
+"Vous devez fournir une adresse e-mail ou un alias, avec évidement un mot de "
+"passe, pour envoyer une offre avec un compte existant "
+
+#: ../auction.php:65 ../auction.php:69
+msgid "Invalid Login"
+msgstr "Login incorrect"
+
+#: ../auction.php:69
+msgid ""
+"Sorry, we could not find an account with that login (your e-mail or display "
+"name) and that password. Your bid <b>has not</b> been submitted. Please try "
+"again."
+msgstr ""
+"Désolé, nous ne trouvons pas un compte possédant ce login (votre adresse e-"
+"mail ou alias) et ce mot de passe. Votre offre <b>n'a pas</b> été envoyée. "
+"Veuillez essayer encore."
+
+#: ../auction.php:80
+msgid "Missing Information"
+msgstr "Information manquante"
+
+#: ../auction.php:83
+msgid "Missing Required Information for New User"
+msgstr "Information requise manquante pour le nouvel utilisateur"
+
+#: ../auction.php:83
+msgid ""
+"You must fill in all the fields to become a user, except for Company. "
+"Everything else is non-optional. Please go back and fill in the rest."
+msgstr ""
+"Vous devez remplir tous les champs pour devenir un utilisateur, sauf pour "
+"Société. Les champs restants ne sont pas optionnel. Veuillez retourner en "
+"arrière et remplir le reste."
+
+#: ../auction.php:96 ../auction.php:99
+msgid "Account Exists"
+msgstr "Ce compte existe"
+
+#: ../auction.php:99
+msgid ""
+"An account already exists for that display name or e-mail address. Please "
+"try something else. Your bid <b>has not</b> been submitted."
+msgstr ""
+"Un compte existe déjà sous cet alias ou cette adresse e-mail. Svp veuillez "
+"essayer quelque chose de différent. Votre enchère <b>n'a pas</b> été envoyée."
+
+#: ../auction.php:105 ../auction.php:108
+msgid "Password Mismatch"
+msgstr "Le mot de passe ne correspond pas"
+
+#: ../auction.php:108
+msgid ""
+"Your passwords did not match. Please re-enter them to create an account. "
+"Your bid <b>has not</b> been submitted."
+msgstr ""
+"Vos mots de passe ne correspondent pas. Veuillez re-saisir ceux-ci pour "
+"créer un compte. Votre enchère <b>n'a pas</b> été envoyée."
+
+#: ../auction.php:123 ../auction.php:126 ../auction.php:131 ../auction.php:134
+msgid "Bid Too Small"
+msgstr "Offre trop petite"
+
+#: ../auction.php:126
+#, php-format
+msgid ""
+"Either you entered a bid that was too small to begin with, or someone has "
+"already placed a higher bid. The present minimum bid you need to place is <b>"
+"$%s</b>. Go back and <a href=\"auction.php?bid=%d\">bid again</a>."
+msgstr ""
+"Soit vous avez saisi une offre qui était trop faible pour débuter, soit "
+"quelqu'un a déjà enchéri d'un offre plus importante. L'offre minimum dont "
+"vous avez besoin pour enchérir est <b>$%s</b>. Retournez en arrière et <a "
+"href=\"auction.php?bid=%d\">renchérissez encore</a>."
+
+#: ../auction.php:134
+#, php-format
+msgid ""
+"Either you entered a bid that was too small to begin with, or someone has "
+"already placed a higher bid. The present minimum bid you need to place is <b>"
+"%s</b>. Go back and <a href=\"auction.php?bid=%d\">bid again</a>."
+msgstr ""
+"Soit vous avez saisi une offre qui était trop faible pour débuter, soit "
+"quelqu'un a déjà enchéri d'un offre plus importante. L'offre minimum dont "
+"vous avez besoin pour enchérir est <b>$%s</b>. Retournez en arrière et <a "
+"href=\"auction.php?bid=%d\">renchérissez encore</a>."
+
+#: ../auction.php:140 ../auction.php:143
+msgid "Bid Too Big"
+msgstr "Offre trop grande"
+
+#: ../auction.php:143
+msgid ""
+"We consider increasing the bid by more than 100 times to be excessive. "
+"Please go back and try again."
+msgstr ""
+"Nous considérons qu'augmenter une offre de plus de 100 fois est excessif. "
+"Veuillez retournez en arrière et essayer encore."
+
+#: ../auction.php:150
+msgid "Bid Submitted"
+msgstr "Offre envoyée"
+
+#: ../auction.php:153
+#, php-format
+msgid "Bid Submitted for Item #%d"
+msgstr "Offre envoyée pour l'objet #%d"
+
+#: ../auction.php:154
+#, php-format
+msgid "Your bid of $%s has been placed."
+msgstr "Votre offre of $%s a été prise en compte."
+
+#: ../auction.php:155
+#, php-format
+msgid ""
+"You may <a href=\"auction.php?detail=%d\">return to the auction detail</a> "
+"and verify your bid is placed and you are winning."
+msgstr ""
+"Vous pouvez <a href=\"auction.php?detail=%d\">retourner aux détails de "
+"l'enchère</a> et vérifier que votre offre a été prise en compte et que vous "
+"êtes en train de gagner."
+
+#: ../auction.php:188
+#, php-format
+msgid "Bid on Auction #%d - %s"
+msgstr "Offre sur enchère #%d - %s"
+
+#: ../auction.php:191
+#, php-format
+msgid "Bid on #%d - %s"
+msgstr "Offre sur #%d - %s"
+
+#: ../auction.php:195
+msgid ""
+"Sorry, this auction has closed, so you may not bid on it now. You may <a "
+"href=\"auction.php\">return to the open auction list</a>."
+msgstr ""
+"Désolé cette enchère est fermée, donc vous ne pouvez pas enchérir dessus "
+"maintenant. Vous pouvez <a href=\"auction.php\">retourner à la liste "
+"d'enchères ouvertes</a>."
+
+#: ../auction.php:202
+#, php-format
+msgid ""
+"Bidding is now in progress on this item. You may also <a href=\"auction.php"
+"\">return to the open auction list</a> or <a href=\"auction.php?detail=%d"
+"\">the auction detail</a>."
+msgstr ""
+"L'enchère est maintanant en cours sur cet objet. Vous pouvez également <a "
+"href=\"auction.php\">retourner à la liste d'enchères ouvertes</a> ou <a href="
+"\"auction.php?detail=%d\">voir les détails de l'enchère</a>."
+
+#: ../auction.php:207
+msgid ""
+"Please fill in the appropriate information below, and submit your bid. "
+"Further down this page, you will find all the details of what you are "
+"bidding on and a brief overview of the terms of bidding."
+msgstr ""
+"Svp remplissez les informations appropriées ci-dessous, et envoyer votre "
+"enchère.Plus bas dans cette page, vous trouverez tous les détails sur ce que "
+"vous êtes en train d'enchérir et un bref aperçu des conditions d'offre"
+
+#: ../auction.php:217
+msgid ""
+"There are presently no bids, so you may bid the opening bid amount or higher."
+msgstr ""
+"Il n'y a pas d'offres en ce moment, donc vous pouvez enchérir avec le "
+"montant d'ouverture de l'offre ou plus."
+
+#: ../auction.php:223
+#, php-format
+msgid ""
+"The current bid price is <b>%s</b>. Your bid must be at least <b>$%s</b>."
+msgstr ""
+"Le prix de l'offre courante est <b>%s</b>. Votre offre doit être au moins <b>"
+"$%s</b>."
+
+#: ../auction.php:227
+msgid "Please enter your bid:"
+msgstr "Veuillez saisir votre offre:"
+
+#: ../auction.php:227
+msgid "Canadian Dollars"
+msgstr "Dollars canadiens"
+
+#: ../auction.php:228
+msgid "You may also enter any notes about this bid:"
+msgstr "Vous pouvez également saisir un commentaire à propos de cet offre:"
+
+#: ../auction.php:234
+msgid "Existing Users"
+msgstr "Utilisateurs existants"
+
+#: ../auction.php:235
+msgid "E-Mail/Display Name:"
+msgstr "E-mail/Alias:"
+
+#: ../auction.php:236 ../auction.php:242 ../template.php:888
+msgid "Password:"
+msgstr "Mot de passe"
+
+#: ../auction.php:240
+msgid "New Users"
+msgstr "Nouveaux Utilisateurs"
+
+#: ../auction.php:241
+msgid "Display Name (public):"
+msgstr "Alias (public)"
+
+#: ../auction.php:243
+msgid "Password Again:"
+msgstr "Mot de passe à nouveau:"
+
+#: ../auction.php:244
+msgid "Full Name:"
+msgstr "Nom Complet"
+
+#: ../auction.php:245
+msgid "Company:"
+msgstr "Société"
+
+#: ../auction.php:246
+msgid "E-Mail:"
+msgstr "E-Mail:"
+
+#: ../auction.php:250
+msgid "Submit Bid"
+msgstr "Envoyer l'offre"
+
+#: ../auction.php:251
+msgid "Create Account and Submit Bid"
+msgstr "Créer un compte et Envoyer l'offre"
+
+#: ../auction.php:256
+msgid ""
+"All information provided on a new account is kept confidential except for "
+"your display name. Your bid will also be made public."
+msgstr ""
+"Toutes les informations fournies sur un nouveau compte sont gardées "
+"confidentielles sauf pour votre alias. Votre offre sera également rendue "
+"publique."
+
+#: ../auction.php:259 ../auction.php:330
+msgid "Item Details"
+msgstr "Détails de l'objet"
+
+#: ../auction.php:261 ../auction.php:332
+msgid "General Information"
+msgstr "Information générale"
+
+# Most of the things doesn't make any sense for me. I don't have the context, but I suppose thoses words are in a form (because of the &nbsp;)
+#: ../auction.php:262 ../auction.php:333
+msgid "Bidding&nbsp;Began:"
+msgstr "Enchères&nbsp;Débuté:"
+
+#: ../auction.php:263 ../auction.php:334
+msgid "Bidding&nbsp;Ends:"
+msgstr "Enchères&nbsp;Terminé:"
+
+#: ../auction.php:266 ../auction.php:337
+msgid "Closing&nbsp;Bid:"
+msgstr "Fermeture&nbsp;Offre:"
+
+#: ../auction.php:267 ../auction.php:338
+#, fuzzy, php-format
+msgid "%s Canadian Dollars with %d bid"
+msgid_plural "%s Canadian Dollars with %d bids"
+msgstr[0] "Dollars canadiens"
+msgstr[1] "Dollars canadiens"
+
+#: ../auction.php:269 ../auction.php:340
+msgid "Winning Bidder:"
+msgstr "Offrant gagnant:"
+
+#: ../auction.php:271 ../auction.php:342
+msgid "Closed:"
+msgstr "Fermé"
+
+#: ../auction.php:271 ../auction.php:342
+msgid "There were no bids on this auction."
+msgstr "Il n'y a eu aucune offre pour cette enchère"
+
+#: ../auction.php:274 ../auction.php:345
+msgid "Present&nbsp;High&nbsp;Bid:"
+msgstr "Present&nbsp;High&nbsp;Offre:"
+
+#: ../auction.php:275 ../auction.php:346
+#, fuzzy, php-format
+msgid "%s Canadian Dollars (%d bid)"
+msgid_plural "%s Canadian Dollars (%d bids)"
+msgstr[0] "Dollars canadiens"
+msgstr[1] "Dollars canadiens"
+
+#: ../auction.php:277 ../auction.php:348
+msgid "Present&nbsp;High&nbsp;Bidder:"
+msgstr "Present&nbsp;High&nbsp;Offrant:"
+
+#: ../auction.php:280 ../auction.php:351 ../auction.php:388
+msgid "Description"
+msgstr "Description"
+
+#: ../auction.php:281 ../auction.php:352
+msgid "Advertisement&nbsp;Class:"
+msgstr "Publicité&nbsp;Type:"
+
+#: ../auction.php:282 ../auction.php:353
+msgid "Class&nbsp;Description:"
+msgstr "Type&nbsp;Description:"
+
+#: ../auction.php:283 ../auction.php:354
+msgid "Advertising&nbsp;Period:"
+msgstr "Publicité&nbsp;Période:"
+
+#: ../auction.php:283 ../auction.php:354
+msgid "to"
+msgstr "pour"
+
+#: ../auction.php:284 ../auction.php:355
+msgid "Specific&nbsp;Description:"
+msgstr "Specifique&nbsp;Description:"
+
+#: ../auction.php:287 ../auction.php:358
+msgid ""
+"Please note: Bidding on this advertising space is a binding commitment "
+"between both the bidding party and/or parties and NetMonks Consulting "
+"Corporation. Do not place a bid if you do not intend to pay if you win. All "
+"winning bidders will be required to sign a formal contract and provide "
+"company/personal information for purposes of opening your account."
+msgstr ""
+"Veuillez considérer: Enchérir sur cet espace publicitaire est un accord qui "
+"engage à la fois les partie(s) offrantes et NetMonks Consulting Corporation. "
+"Ne placez pas une offre si vous n'avez pas l'intention de payer si vous "
+"gagner. Tous les offrants gagnants seront requis afin de signer un contrat "
+"formel et fournir des informations personnelles et sur sa société dans le "
+"but d'ouvrir votre compte"
+
+#: ../auction.php:315
+#, php-format
+msgid "Details of Auction #%d - %s"
+msgstr "Détails de l'enchère #%d - %s"
+
+#: ../auction.php:318
+#, php-format
+msgid "Auction #%d - %s"
+msgstr "Enchère #%d - %s"
+
+#: ../auction.php:322
+msgid ""
+"Sorry, this auction has closed. This page is for reference only. You may "
+"also <a href=\"auction.php\">return to the open auction list</a>."
+msgstr ""
+"Désolé, cette enchère a été fermé. Cette page est seulement pour la "
+"référence. Vous pouvez aussi <a href=\"auction.php\">retourner à la liste "
+"des enchères ouvertes</a>."
+
+#: ../auction.php:326
+msgid ""
+"Bidding is now in progress on this item. You may also <a href=\"auction.php"
+"\">return to the open auction list</a>."
+msgstr ""
+"Une enchère est en cours sur cet objet. Vous pouvez aussi <a href=\"auction."
+"php\">retourner à la liste des enchères ouvertes</a>."
+
+#: ../auction.php:371
+msgid "No Available Auctions"
+msgstr "Pas d'enchères disponibles"
+
+#: ../auction.php:373
+msgid "no open auctions"
+msgstr "pas d'enchères ouvertes"
+
+#: ../auction.php:374
+msgid "Sorry, there are presently no open auctions. Please check again later."
+msgstr ""
+"Désolé, il n'y a pas d'enchères ouvertes en ce moment. Svp vérifiez plus "
+"tard."
+
+#: ../auction.php:379
+msgid "Available Auctions"
+msgstr "Enchères disponibles"
+
+#: ../auction.php:382
+msgid "Advertising Auctions in Progress"
+msgstr "Enchères de publicité en cours"
+
+#: ../auction.php:383
+msgid ""
+"The following auctions are in progress. Select an auction to view the "
+"details or place a bid. (All prices are in <i>Canadian Dollars</i>)"
+msgstr ""
+"Les enchères suivantes sont en cours. Choississez une enchères pour voir "
+"lesdétails ou pour enchérir. (Tous les prix sont en <i>Dollars canadiens</i>)"
+
+#: ../auction.php:388
+msgid "ID"
+msgstr "ID"
+
+#: ../auction.php:388
+msgid "Bid"
+msgstr "Offre"
+
+#: ../auction.php:388
+msgid "Bids"
+msgstr "Offres"
+
+#: ../auction.php:388
+msgid "Bidding Ends"
+msgstr "Fin d'enchère"
+
+#: ../auction.php:403
+msgid "What is this?"
+msgstr "Qu'est-ce que c'est?"
+
+# check the "" with the word "petite" i'm not really sure of the use of the backslash 
+#: ../auction.php:404
+msgid ""
+"Due to a fair bit of demand for space on these pages, we have decided to "
+"offer it up in a bidding system. This seems to be the fairest way of "
+"distributing it to people, instead of accidentally showing favouritism to "
+"anyone in particular."
+msgstr ""
+"A cause de la \"petite\" demande justifiée d'espace sur ces pages, nous "
+"avons décidé de l'offrir à travers un système d'enchères. Cela semble être "
+"la manière la plus juste de la distribuer aux gens, au lieu de montrer "
+"accidentellement du favoritisme à une personne en particulier."
+
+#: ../auction.php:405
+msgid ""
+"Keep in mind that we will review all ads prior to being placed on the site, "
+"and we reserve the right to remove bids we think may be false or invalid, as "
+"well as for companies which do not obviously provide legitimate services."
+msgstr ""
+"Gardez à l'esprit que nous réviserons toutes les publicités avant de les "
+"inclure dans le site, et nous nous réservons le droit de retirer les offres "
+"que nous pensons erronées ou invalides, ainsi que pour les sociétés qui ne "
+"fournissent manifestement pas des services légitimes."
+
+# not very good transaltion for this one : "the statistics of click throughs and bot hits"
+#: ../auction.php:406
+msgid ""
+"The main banner space available is provided as a rotation service, where "
+"each advertiser is granted a specific percentage of page views. We will not "
+"oversell the rotation during any given period. Full statistics of rotation "
+"are averaged over a one month period, and current page hit rates are "
+"available on request. Also, the statistics of click throughs and bot hits "
+"are included in the tracking."
+msgstr ""
+"La disponibilité de l'espace de la bannière principale est fournie comme un "
+"service de rotation, où chaque publicitaire est crédité d'un pourcentage "
+"spécifique de vue des pages. Nous ne vendrons pas plus de rotations durant "
+"n'importe quelle période donnée.  Toutes les statistiques des rotations sont "
+"moyennées au-delà d'une période d'un mois, et les taux de hit de la page "
+"courante sont disponible sur demande.De plus, les statistiques des clicks et "
+"des hits sont inclus dans le suivi."
+
+#: ../auction.php:407
+msgid ""
+"Auctions for a specific banner display count are available at various "
+"periods of time, and are designed to not conflict with the existing banner "
+"rotations."
+msgstr ""
+"Les enchères pour une bannière spécifique sont disponibles à de multiples "
+"périodes de temps, et sont conçues pour ne pas provoquer de conflits avec la "
+"rotation de la bannière existante. "
+
+#: ../auction.php:408
+msgid ""
+"If you have any questions, <a href=\"http://netmonks.ca/contact/\">contact "
+"Stephen Olesen</a>."
+msgstr ""
+"Si vous avez des questions, <a href=\"http://netmonks.ca/contact/"
+"\">contactez Stephen Olesen</a>."
+
+#: ../auction.php:409
+msgid "Can I bid on more than one?"
+msgstr "Est-ce que je peux enchérir sur plus d'un objet?"
+
+#: ../auction.php:410
+msgid ""
+"Yes. In the case of rotation, your total rotation will be added together. In "
+"the case of set display counts, it will also be added together."
+msgstr ""
+"Oui. Dans le cas des rotations, vos rotations totales vont être ajoutées. "
+"Dans le cas du nombres de jeu d'affichage, ils seront aussi ajoutés "
+"ensembles."
+
+#: ../comments.inc.php:29
+#, fuzzy
+msgid "comment thread for"
+msgstr "Longueur totale du contenu"
+
+#: ../comments.inc.php:30
+#, fuzzy
+msgid "Comment thread index"
+msgstr "Longueur totale du contenu"
+
+#: ../comments.inc.php:64
+msgid "Posted By"
+msgstr ""
+
+#: ../comments.inc.php:70 ../comments.php:358
+#, fuzzy
+msgid "Posted"
+msgstr "Fermé"
+
+#: ../comments.inc.php:79
+msgid "comment on this"
+msgstr ""
+
+#: ../comments.inc.php:94
+msgid "from"
+msgstr ""
+
+#: ../comments.php:25
+msgid "comments for page are not available"
+msgstr ""
+
+#: ../comments.php:27
+#, fuzzy
+msgid "no post available"
+msgstr "aucun message à afficher"
+
+#: ../comments.php:28
+msgid "Sorry, the post you requested has expired or does not exist."
+msgstr ""
+
+#: ../comments.php:56
+msgid ""
+"It appears you're trying to spam the Pastebin. You should really just go "
+"away."
+msgstr ""
+
+#: ../comments.php:80
+msgid "The submitted comment appears to be spam."
+msgstr ""
+
+#: ../comments.php:100 ../comments.php:102
+#, fuzzy, php-format
+msgid "no such comment thread #%d"
+msgstr "Longueur totale du contenu"
+
+#: ../comments.php:103
+msgid "There is no comment thread with that ID number."
+msgstr ""
+
+#: ../comments.php:108
+#, php-format
+msgid "pastebin.ca comment: %s"
+msgstr "pastebin.ca commentaire: %s"
+
+#: ../comments.php:115
+msgid "pastebin.ca comments"
+msgstr "pastebin.ca commentaires"
+
+#: ../comments.php:120 ../index.php:109 ../quiet-paste.php:67
+msgid "Anonymous"
+msgstr ""
+
+#: ../comments.php:124
+#, fuzzy
+msgid ""
+"You provided a name which is too long (more than 64 characters). Please go "
+"back and fix this."
+msgstr ""
+"Votre mot de passe est trop court. Il doit être composé d'au-moins 5 "
+"caractères. Veuillez retourner en arrière et essayez encore."
+
+#: ../comments.php:130
+#, fuzzy
+msgid ""
+"You provided a contact which is too long (more than 64 characters). Please "
+"go back and fix this."
+msgstr ""
+"Votre mot de passe est trop court. Il doit être composé d'au-moins 5 "
+"caractères. Veuillez retourner en arrière et essayez encore."
+
+#: ../comments.php:136
+#, fuzzy
+msgid ""
+"You provided a subject which is too long (more than 64 characters). Please "
+"go back and fix this."
+msgstr ""
+"Votre mot de passe est trop court. Il doit être composé d'au-moins 5 "
+"caractères. Veuillez retourner en arrière et essayez encore."
+
+#: ../comments.php:142
+msgid ""
+"You submitted comments in excess of 8,192 characters long. That's quite a "
+"bit for a comment... Go back and shorten them."
+msgstr ""
+
+#: ../comments.php:148
+#, fuzzy
+msgid "You didn't provide a subject. Please go back and do so."
+msgstr "Vous n'avez fourni aucun contenu.  Svp essai encore."
+
+#: ../comments.php:153
+#, fuzzy
+msgid "You didn't actually provide any comments. Please go back and do so."
+msgstr "Vous n'avez fourni aucun contenu.  Svp essai encore."
+
+#: ../comments.php:178
+msgid "The provided Poll ID is invalid."
+msgstr ""
+
+#: ../comments.php:192
+msgid "The provided Pastebin ID is invalid."
+msgstr ""
+
+#: ../comments.php:225
+msgid "comment accepted"
+msgstr "commentaire accepté"
+
+#: ../comments.php:227
+msgid "Thank you for your feedback! It has been added to the comments."
+msgstr ""
+
+#: ../comments.php:231
+#, php-format
+msgid ""
+"Thank you for your comments. They have been added to the rest. You may "
+"return to <a href=\"/%d\">paste #%d</a>."
+msgstr ""
+
+#: ../comments.php:238
+#, php-format
+msgid ""
+"Thank you for your comments. They have been added to the rest. You may view "
+"<a href=\"/polldetail.php?id=%d\">detail of poll #%d</a>."
+msgstr ""
+
+#: ../comments.php:248
+#, fuzzy
+msgid "paste comments"
+msgstr "collage effectué"
+
+#: ../comments.php:250
+#, fuzzy
+msgid "poll comments"
+msgstr "collage effectué"
+
+#: ../comments.php:252
+msgid "pastebin.ca comments from users"
+msgstr ""
+
+#: ../comments.php:262 ../comments.php:264 ../polldetail.php:47
+#: ../polls.php:24 ../polls.php:64
+msgid "question"
+msgstr "question"
+
+#: ../comments.php:264
+msgid "You are commenting the poll: "
+msgstr ""
+
+#: ../comments.php:265 ../comments.php:271
+msgid ""
+"Please enter your comments below. All fields except subject and the comments "
+"themselves are optional."
+msgstr ""
+
+#: ../comments.php:270
+#, php-format
+msgid ""
+"You are commenting on paste <b>#%d</b> (the content is below the comment "
+"form)."
+msgstr ""
+
+#: ../comments.php:277
+msgid ""
+"Your input about the Pastebin, be it praise or criticism, is quite "
+"important. This comment section is your sounding area to let everyone know "
+"what you think. Or, just fill in the blanks for the fun of it. You have the "
+"option to not show your name, contact information, or even your comments. "
+"The only required fields are the subject and comments themselves."
+msgstr ""
+
+#: ../comments.php:290
+msgid "You are replying to the following comment:"
+msgstr ""
+
+#: ../comments.php:292
+msgid "your comment/reply"
+msgstr ""
+
+#: ../comments.php:305
+msgid "Name"
+msgstr "Nom"
+
+#: ../comments.php:306
+msgid "Keep my name private."
+msgstr ""
+
+#: ../comments.php:307
+msgid "Contact Info"
+msgstr ""
+
+#: ../comments.php:308
+#, fuzzy
+msgid "Keep my contact information private."
+msgstr "Information contact manquante"
+
+#: ../comments.php:311 ../comments.php:313 ../comments.php:316
+msgid "Type of Comment"
+msgstr ""
+
+#: ../comments.php:311
+#, fuzzy
+msgid "Poll Comment"
+msgstr "Nombre total de commentaires"
+
+#: ../comments.php:313
+#, fuzzy
+msgid "Pastebin Comment"
+msgstr "pastebin.ca commentaires"
+
+#: ../comments.php:317
+#, fuzzy
+msgid "Praise"
+msgstr "Privé"
+
+#: ../comments.php:318
+msgid "Criticism"
+msgstr ""
+
+#: ../comments.php:319
+#, fuzzy
+msgid "Pastebin Rules!"
+msgstr "détails pastebin"
+
+#: ../comments.php:320
+msgid "I hate this site!"
+msgstr ""
+
+#: ../comments.php:321
+msgid "Huh?"
+msgstr "Hein?"
+
+#: ../comments.php:322
+msgid "Question"
+msgstr "question"
+
+#: ../comments.php:323
+msgid "Curiousity"
+msgstr ""
+
+#: ../comments.php:324 ../template.php:769
+msgid "Spam"
+msgstr ""
+
+#: ../comments.php:325
+msgid "Random Babbling"
+msgstr ""
+
+#: ../comments.php:326
+msgid "1'm 4n 3|173 h4ck3r!"
+msgstr ""
+
+#: ../comments.php:327
+msgid "Goldfish"
+msgstr ""
+
+#: ../comments.php:328
+msgid "I forget now"
+msgstr ""
+
+#: ../comments.php:329
+msgid "Why are we here?"
+msgstr ""
+
+#: ../comments.php:330
+msgid "Why am I here?"
+msgstr ""
+
+#: ../comments.php:331
+msgid "Why aren't you here?"
+msgstr ""
+
+#: ../comments.php:332
+msgid "(don't make me explain any of those)"
+msgstr ""
+
+#: ../comments.php:336
+msgid "Subject"
+msgstr ""
+
+#: ../comments.php:337 ../template.php:414 ../template.php:424
+#: ../template.php:443 ../template.php:452
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../comments.php:338
+msgid "Only let administrators see my comments."
+msgstr ""
+
+#: ../comments.php:339
+msgid "Submit Comments"
+msgstr "Envoyer le Commentaires"
+
+#: ../comments.php:341
+msgid ""
+"Your comments will be stripped of any HTML to keep these comments from "
+"turning into a big list of links to spam and so on. However, any posts "
+"containing a URL will be forwarded to the administrators with the URL "
+"intact. If they find that the URL is useful, the HTML will be re-enabled for "
+"that comment."
+msgstr ""
+
+#: ../comments.php:345
+msgid "you are commenting on the following"
+msgstr ""
+
+#: ../comments.php:350
+#, fuzzy
+msgid "past comments"
+msgstr "collage effectué"
+
+#: ../comments.php:352
+msgid "Here are the past comments from other users:"
+msgstr ""
+
+#: ../comments.php:363 ../rss.php:34
+msgid "at"
+msgstr ""
+
+#: ../comments.php:365
+#, fuzzy
+msgid "Total replies:"
+msgstr "Nombre total d'arbres"
+
+#: ../comments.php:365
+#, fuzzy
+msgid "most recent"
+msgstr "arbre des messages"
+
+#: ../confirm.php:13
+msgid "confirmation of e-mail"
+msgstr "confirmation d'e-mail"
+
+#: ../confirm.php:15
+msgid "confirmation of e-mail address"
+msgstr "confirmation de l'adresse e-mail"
+
+#: ../confirm.php:17
+msgid ""
+"Sorry, you did not provide a confirmation ID. You need to copy the URL in "
+"your received e-mail exactly."
+msgstr ""
+"Désolé vous n'avez pas fourni un ID de confirmation. Vous devez copier "
+"exactement l'URL que vous avez reçu par e-mail."
+
+#: ../confirm.php:25
+msgid ""
+"Sorry, that confirmation code was not found in the database. Confirm that "
+"you copied the URL exactly."
+msgstr ""
+"Désolé, the code de confirmation n'as pas été trouvé dans la base de "
+"données. Vérifiez que vous avez copié exactement l'URL."
+
+#: ../confirm.php:33
+msgid ""
+"That confirmation address has already been used. The activation of your "
+"Pastebin should already be done. If you have problems, please contact <a "
+"href=\"http://netmonks.ca/contact/slepp.php\">the administration</a>."
+msgstr ""
+"Cette adresse de confirmationa déjà été utilisée. L'activation de votre "
+"Pastebin devrait déjà avoir eu lieu. Si vous avez des problèmes, veuillez "
+"contacter <a href=\"http://netmonks.ca/contact/slepp.php\">l'administrateur</"
+"a>. "
+
+#: ../confirm.php:38
+msgid ""
+"Thank you for confirming your e-mail address. Your account is now being "
+"configured..."
+msgstr ""
+"Merci d'avoir confirmer votre adresse e-mail. Votre compte va être "
+"maintenant configuré..."
+
+#: ../confirm.php:47
+msgid "Server error. Sorry... Cannot activate host."
+msgstr "Erreur du serveur. Désolé... Impossibilité d'activé le domaine"
+
+#: ../confirm.php:57
+msgid "completed"
+msgstr "terminé"
+
+#: ../confirm.php:59
+#, php-format
+msgid ""
+"Barring any errors shown above, your host is now activated. Please wait a "
+"few minutes before trying <i>%s</i> to allow for DNS propogation."
+msgstr ""
+"Exceptées les erreurs montrées ci-dessus, votre domaine est maintenant "
+"activé. Veuillez attendre quelques minutes avant d'essayer <i>%s</i> "
+"d'autoriser pour la propagation DNS."
+
+#: ../diff.php:26 ../diff.php:58 ../diff.php:77
+#, php-format
+msgid "differences between %d and %d"
+msgstr "différence entre %d and %d"
+
+#: ../diff.php:28
+msgid "invalid id requested"
+msgstr "demande identification invalide"
+
+#: ../diff.php:29
+msgid "Sorry, one of the IDs you provided is invalid."
+msgstr "Désolé, l'une des IDs que vous avez fourni est invalide"
+
+#: ../diff.php:36 ../diff.php:48
+#, php-format
+msgid "post number %d doesn't exist"
+msgstr ""
+
+#: ../diff.php:39
+msgid ""
+"You requested a diff of posts, but the first ID is invalid or incorrect."
+msgstr ""
+
+#: ../diff.php:51
+msgid ""
+"You requested a diff of posts, but the second ID is invalid or incorrect."
+msgstr ""
+
+#: ../diff.php:62
+msgid "silly, those are the same post"
+msgstr ""
+
+#: ../diff.php:63
+msgid ""
+"You requested a diff of the same post. Of course, there will be no changes "
+"between them... Maybe try with two different posts?"
+msgstr ""
+
+#: ../diff.php:68
+msgid "differences between possibly dissimilar posts"
+msgstr "différences entre des messages probablement dissemblables"
+
+#: ../diff.php:69
+msgid ""
+"You have chosen to see the differences from two possibly dissimilar posts. "
+"They are not part of the same modification tree, so the results of the diff "
+"may not be very informative."
+msgstr ""
+"Vous avez choisi de voir les différences de deux messages probablement "
+"dissemblables. Il n'y a pas de partie du même arbre des modifications, donc "
+"le résulats du diff ne sera sans doute pas très pertinent."
+
+#: ../diff.php:73
+msgid "difference source formats"
+msgstr ""
+
+#: ../diff.php:74
+msgid ""
+"The two pastes you are comparing have different syntax highlighting formats. "
+"As a result, each is highlighted in its own syntax."
+msgstr ""
+
+#: ../diff.php:78
+msgid "This URL: "
+msgstr "Cette URL:"
+
+#: ../diff.php:79
+msgid "Original Post: "
+msgstr "Message original"
+
+#: ../diff.php:80
+msgid "Updated Post: "
+msgstr "Message mis à jour: "
+
+#: ../diff.php:194
+msgid "This Diff in Reverse: "
+msgstr "Ce diff en inverse: "
+
+#: ../diff.php:195
+msgid "Raw Diff Download: "
+msgstr "Téléchargement du diff en raw:"
+
+#: ../diff.php:197
+msgid "Legend of highlighting:"
+msgstr "Legend du surlignage:"
+
+#: ../diff.php:198
+msgid "Addition from old source to new source."
+msgstr "Ajout depuis une ancienne source vers une nouvelle source."
+
+#: ../diff.php:199
+msgid "Deletion from original source."
+msgstr "Suppression depuis la source originelle"
+
+#: ../diff.php:200
+msgid "A change from the old source to the new source (see next item)."
+msgstr ""
+"Un changement depuis l'ancienne source vers la nouvelle source (voir l'ojet "
+"suivant)."
+
+#: ../diff.php:201
+msgid "The changes in the new source from the old source."
+msgstr "Les changements dans la nouvelle source depuis l'ancienne source."
+
+#: ../donate.php:5
+#, fuzzy
+msgid "donate to pastebin.ca"
+msgstr "Créer Votre Pastebin"
+
+#: ../donate.php:15
+#, fuzzy
+msgid "donate to the pastebin"
+msgstr "créer votre propre pastebin"
+
+#: ../donate.php:60
+msgid "previous donations"
+msgstr ""
+
+#: ../draw.php:15
+msgid "free movie draw - closed"
+msgstr "Concours vidéo gratuite - fermé"
+
+#: ../error404.php:14 ../old-search.php:71 ../old-search.php:92
+#: ../old-search.php:117 ../search.php:93 ../search.php:201
+#: ../template.php:397 ../template.php:468
+msgid "Search"
+msgstr "Rechercher"
+
+#: ../features.php:12 ../features.php:15
+#, fuzzy
+msgid "pastebin.ca features"
+msgstr "pastebin.ca commentaires"
+
+#: ../features.php:16
+msgid ""
+"This Pastebin has a number of features, both common and unique. This is a "
+"small list of the most popular and interesting ones."
+msgstr ""
+
+#: ../features.php:19
+msgid ""
+"Full Translations into <a href=\"http://en.pastebin.ca/features.php"
+"\">English</a>, <a href=\"http://fr.pastebin.ca/features.php\">French</a> "
+"and <a href=\"http://de.pastebin.ca/features.php\">German</a>"
+msgstr ""
+
+#: ../features.php:20
+msgid ""
+"Although the native language of the Pastebin is <a href=\"http://en.pastebin."
+"ca/\">English</a>, two users have dedicated a lot of time to translating the "
+"entire site into <a href=\"http://fr.pastebin.ca/\">French</a> and <a href="
+"\"http://de.pastebin.ca/\">German</a>."
+msgstr ""
+
+#: ../features.php:22
+msgid "Fully Integrated Comment System"
+msgstr ""
+
+#: ../features.php:23
+msgid ""
+"<p>All pastes can maintain a set of corresponding comments from other users. "
+"The comments are shown in a tree structure to assist in following responses "
+"to each of the comments.</p><p>Comments are also available on a <a href=\"/"
+"comments.php\">site-wide basis</a> and on other portions of the Pastebin, "
+"such as <a href=\"/polls.php\">polls</a>.</p>"
+msgstr ""
+
+#: ../features.php:25
+msgid "Custom Pastebin Oriented Search Engine"
+msgstr ""
+
+#: ../features.php:26
+msgid ""
+"A specially designed search engine, targetted to the type of content "
+"contained within the Pastebin, is provided. It indexes all the posts "
+"(including posts set to expire, but still valid). The search services "
+"support complex searches using grouping, phrase matching and boolean search "
+"terms."
+msgstr ""
+
+#: ../features.php:28
+msgid "Permanent Archival of Posts"
+msgstr ""
+
+#: ../features.php:29
+msgid ""
+"Unless the poster specifies a time for the post to be valid, all the <a href="
+"\"/archive1\">posts are archived</a>. These archives help others find useful "
+"pieces of code or problem solutions."
+msgstr ""
+
+#: ../features.php:30
+msgid "The archives start with the most recent 15 posts on the left sidebar."
+msgstr ""
+
+#: ../features.php:32
+#, fuzzy
+msgid "Private and Public Sub-Pastebins"
+msgstr "Pastebin Public"
+
+#: ../features.php:33
+msgid ""
+"<p>Anyone may <a href=\"/makesub.php\">create a new subdomain</a> of "
+"<i>pastebin.ca</i>. By doing so, they may either secure all the pastes with "
+"a username and password (and create related sub-users), or create a Pastebin "
+"to contain posts related to an ongoing project. In other words, the sub-"
+"pastebins are there to allow users to have their own Pastebin without "
+"needing to setup anything on their own servers.</p><p>The ability also "
+"exists to point other domains at the Pastebin, without needing to use a <i>."
+"pastebin.ca</i> sub-domain.</p>"
+msgstr ""
+
+#: ../features.php:35
+#, fuzzy
+msgid "Upload a Paste Feature"
+msgstr "Uploader un message"
+
+#: ../features.php:36
+msgid ""
+"Users are able to <a href=\"/upload.php\">upload new posts</a>, instead of "
+"only being able to paste them into a text box. This feature helps to send "
+"larger documents or other local files without having to cut and paste "
+"everything."
+msgstr ""
+
+#: ../features.php:38
+msgid "Graphical Representation of Modifications"
+msgstr ""
+
+#: ../features.php:39
+msgid ""
+"<p>As posts are updated, the system tracks the changes in a tree format, "
+"allowing users to see the lineage of changes. It also permits viewing the "
+"differences between any two pastes in the same tree.</p><p>You can also "
+"download a raw copy of the differences to apply in a patch to an original "
+"file.</p>"
+msgstr ""
+
+#: ../features.php:41
+#, fuzzy
+msgid "Raw Content Downloads"
+msgstr "Télécharger le Contenu Raw:"
+
+#: ../features.php:42
+msgid ""
+"If you need an exact copy of the original paste, you can download the entire "
+"content of the paste with the <i>raw content download</i> feature."
+msgstr ""
+
+#: ../features.php:44
+#, fuzzy
+msgid "Detailed Statistics"
+msgstr "Statistiques"
+
+#: ../features.php:45
+msgid ""
+"Not so much a feature as it is a curiousity. A number of fairly informative "
+"(but not useful to anyone but the administration) statistics are available "
+"to the public."
+msgstr ""
+
+#: ../features.php:47
+msgid ""
+"RSS Feeds of <a href=\"/rss/posts.rss\">New Posts</a> and <a href=\"/rss/"
+"news.rss\">Site News</a>"
+msgstr ""
+
+#: ../features.php:48
+msgid ""
+"<p>For those that use the Pastebin a lot, there is an <a href=\"/rss/news.rss"
+"\">RSS News Feed</a> to keep users up to date on the changes taking place "
+"here. For those users that just like to read random posts, there is a <a "
+"href=\"/rss/posts.rss\">Recent Posts RSS Feed</a>.</p><p>Also, there are "
+"feeds available for all the comment sections, including the ability to "
+"subscribe to a specific set of comments with RSS to watch details on a "
+"specific post or poll.</p>"
+msgstr ""
+
+#: ../index.php:91
+msgid ""
+"You have no permission to post here (suspected spam). If this is not right, "
+"please send your post to the administration so the filters can be adjusted."
+msgstr ""
+
+#: ../index.php:101
+#, fuzzy
+msgid "empty name"
+msgstr "contenu vide"
+
+#: ../index.php:102
+#, fuzzy
+msgid "The name you provided turns out to be empty... Please try again."
+msgstr "Vous n'avez fourni aucun contenu.  Svp essai encore."
+
+#: ../index.php:109 ../quiet-paste.php:67
+msgid "Something"
+msgstr ""
+
+#: ../index.php:109 ../quiet-paste.php:67
+msgid "Someone"
+msgstr ""
+
+#: ../index.php:109 ../quiet-paste.php:67
+#, fuzzy
+msgid "Stuff"
+msgstr "Choses à faire"
+
+#: ../index.php:109 ../quiet-paste.php:67
+msgid "Miscellany"
+msgstr ""
+
+#: ../index.php:109 ../quiet-paste.php:67
+msgid "Mine"
+msgstr ""
+
+#: ../index.php:109 ../quiet-paste.php:67
+#, fuzzy
+msgid "Untitled"
+msgstr "titre"
+
+#: ../index.php:109 ../quiet-paste.php:67
+#, fuzzy
+msgid "Unnamed"
+msgstr "Nom d'utilisateur"
+
+#: ../index.php:117
+#, fuzzy
+msgid "tags too long"
+msgstr "nom d'hôte trop long"
+
+#: ../index.php:118
+msgid "Sorry, please choose a shorter list of tags."
+msgstr ""
+
+#: ../index.php:125
+msgid "tagged rather like spam"
+msgstr ""
+
+#: ../index.php:126
+msgid ""
+"Sorry, this paste looks rather like a spam pattern we see a lot of. Please "
+"don't use a single tag '<b>unknown</b>' and URL references together."
+msgstr ""
+
+#: ../index.php:144
+#, fuzzy
+msgid "You have forged your query. Please try again."
+msgstr "Vous n'avez fourni aucun contenu.  Svp essai encore."
+
+#: ../index.php:151
+msgid "empty content"
+msgstr "contenu vide"
+
+#: ../index.php:152
+msgid "You did not provide any content. Please try again."
+msgstr "Vous n'avez fourni aucun contenu.  Svp essai encore."
+
+#: ../index.php:159
+msgid "content too large"
+msgstr ""
+
+#: ../index.php:160
+msgid ""
+"The paste you submitted was over one megabyte in size. Please trim it down."
+msgstr ""
+
+#: ../index.php:167
+#, fuzzy
+msgid "description too large"
+msgstr "Description"
+
+#: ../index.php:168
+msgid ""
+"The description of your paste was over 256 kilobytes in size. Please trim it "
+"down."
+msgstr ""
+
+#: ../index.php:175
+#, fuzzy
+msgid "expiry value is invalid"
+msgstr "nom de l'utilisateur invalide"
+
+#: ../index.php:176
+#, fuzzy
+msgid "The expiry you provided is invalid. Please try again."
+msgstr "Vous n'avez fourni aucun contenu.  Svp essai encore."
+
+#: ../index.php:237 ../index.php:246
+msgid "well known spam signature"
+msgstr ""
+
+#: ../index.php:238 ../index.php:247
+msgid ""
+"Sorry, the paste content is identical to a well known spam signature and has "
+"been blocked."
+msgstr ""
+
+#: ../index.php:280
+#, fuzzy
+msgid "subpost missing parent information"
+msgstr "Information contact manquante"
+
+#: ../index.php:281
+msgid ""
+"Sorry, but the post you attempted to make is lacking its parent tree "
+"information. This is normally encoded automatically into the form before "
+"submission. Please go back and try again."
+msgstr ""
+
+#: ../index.php:377
+msgid "paste commited"
+msgstr "collage effectué"
+
+#: ../index.php:379
+msgid "paste added to database"
+msgstr "collage ajouté à la base de données"
+
+#: ../index.php:383
+msgid ""
+"Your paste has been accepted an added to the database. You will be "
+"redirected to it momentarily. The URL for it is:"
+msgstr ""
+"Votre collage a été accepté et ajouté à la base de données.  Vous serez "
+"rédirigés vers celui-ci dans une minute.  Son URL est:"
+
+#: ../index.php:385
+msgid "You may use that URL for referencing your submission from now on."
+msgstr ""
+"Vous pouvez employer cet URL pour référencer votre contribution dorénavant."
+
+#: ../index.php:437 ../old-search.php:113 ../search.php:197
+msgid "collaborative general debugging"
+msgstr "collaboration générale de débogage"
+
+#: ../index.php:445 ../index.php:466
+msgid "invalid id"
+msgstr "identification invalide"
+
+#: ../index.php:447 ../index.php:468
+msgid "That is an invalid ID, or the post has expired."
+msgstr "C'est une identification invalide, ou le message a expiré."
+
+#: ../index.php:452 ../index.php:473
+#, php-format
+msgid "%s - post number %d"
+msgstr "%s - message n° %d"
+
+#: ../index.php:452 ../index.php:473 ../template.php:619
+#, fuzzy
+msgid "poster"
+msgstr "messages"
+
+#: ../index.php:488
+msgid "simplified internet collaboration"
+msgstr "collaboration simplifiée par l'Internet"
+
+#: ../jabber.php:31
+msgid "jabber and msn subscription management"
+msgstr ""
+
+#: ../jabber.php:37
+msgid "what's this about jabber and MSN?"
+msgstr ""
+
+#: ../jabber.php:39
+msgid ""
+"The Pastebin supports receiving pastes by Jabber (and by proxy, MSN), as "
+"well as announcing new pastes to subscribed contacts. You can either fill in "
+"the form below to subscribe to the Jabber interface, which will have the "
+"server add you to its contact list, or you may simply add a contact through "
+"Jabber or MSN to <i>notifier@pastebin.ca</i>."
+msgstr ""
+
+#: ../jabber.php:40
+msgid ""
+"Once you are subscribed to the notifier, you will be able to set your "
+"preferences here as to what sorts of notifications you want and default "
+"paste parameters."
+msgstr ""
+
+#: ../jabber.php:42
+msgid "subscribe through your IM client"
+msgstr ""
+
+#: ../jabber.php:43
+msgid ""
+"You can subscribe through your existing IM client by simply adding the "
+"following contact:"
+msgstr ""
+
+#: ../jabber.php:49
+msgid "subscribe from this page"
+msgstr ""
+
+#: ../jabber.php:50
+msgid ""
+"You may fill in the form below to have the notifier subscribe to you instead."
+msgstr ""
+
+#: ../jabber.php:63
+msgid ""
+"If you fill in this form, and do not get a request immediately for "
+"subscription from the Pastebin, double check your contact above."
+msgstr ""
+
+#: ../jabber.php:64
+msgid "notification and paste preferences"
+msgstr ""
+
+#: ../jabber.php:65
+msgid ""
+"You can set various default options for dealing with pastes and "
+"notifications below. All of these changes take effect immediately. Please "
+"note that all settings will be changed when this form is submitted, so make "
+"sure they're still valid for what you want."
+msgstr ""
+
+#: ../jabber.php:105
+msgid "unsubscribing from the notifier"
+msgstr ""
+
+#: ../jabber.php:106
+msgid ""
+"You can unsubscribe from the notifier by removing it from your IM list. It "
+"will then automatically remove you from its list."
+msgstr ""
+
+#: ../jabber.php:107
+#, fuzzy
+msgid "getting your own pastebin.ca jabber account"
+msgstr "créer votre propre pastebin..."
+
+#: ../jabber.php:108
+msgid ""
+"As another service, you can register to the <i>pastebin.ca</i> Jabber server "
+"and create your own account. This is entirely optional. The Jabber server is "
+"<i>jabber.pastebin.ca</i>, if your client doesn't support SRV records "
+"properly. You may have an account @jabber.pastebin.ca or just @pastebin.ca."
+msgstr ""
+
+#: ../makesub.php:24
+msgid "creating your own pastebin..."
+msgstr "créer votre propre pastebin..."
+
+#
+#: ../makesub.php:27
+msgid "username"
+msgstr "nom de l'utilisateur"
+
+#: ../makesub.php:27
+msgid "password"
+msgstr "mot de passe"
+
+#: ../makesub.php:27
+msgid "password confirmation"
+msgstr "confirmation du mot de passe"
+
+#: ../makesub.php:27
+msgid "full name"
+msgstr "nom complet"
+
+#: ../makesub.php:27
+msgid "e-mail"
+msgstr "e-mail"
+
+#: ../makesub.php:27
+msgid "hostname"
+msgstr "Nom d'hôte"
+
+#: ../makesub.php:27
+msgid "private Pastebin"
+msgstr "Pastebin privé"
+
+#: ../makesub.php:32
+#, php-format
+msgid "You are missing a value for %s"
+msgstr "Vous oubliez une valeur pour %s"
+
+#: ../makesub.php:38
+msgid "missing values"
+msgstr "valeurs manquantes"
+
+#: ../makesub.php:38
+msgid "Please go back and try again."
+msgstr "Veuillez retourner en arrière et essayez encore."
+
+#: ../makesub.php:43
+msgid "passwords do not match"
+msgstr "les mots de passe ne correspondent pas"
+
+#: ../makesub.php:43
+msgid "Your passwords do not match. Please go back and try again."
+msgstr ""
+"Vos mots de passe ne correspondent pas. Veuillez retourner en arrière et "
+"essayez encore."
+
+#: ../makesub.php:46
+msgid "password is too short"
+msgstr "le mot de passe est trop court"
+
+#: ../makesub.php:46
+msgid ""
+"Your password is too short. It needs to be at least 5 characters long. "
+"Please go back and try again."
+msgstr ""
+"Votre mot de passe est trop court. Il doit être composé d'au-moins 5 "
+"caractères. Veuillez retourner en arrière et essayez encore."
+
+#: ../makesub.php:49
+msgid "password is too long"
+msgstr "le mot de passe est trop long"
+
+#: ../makesub.php:49
+msgid ""
+"Your password may only be up to and including 32 characters long. Please go "
+"back and try a shorter one."
+msgstr ""
+"Votre mot de passe doit contenir au maximum 32 caractères. Veuillez "
+"retourneren arrière et essayer en un plus court."
+
+#: ../makesub.php:54
+msgid "username invalid"
+msgstr "nom de l'utilisateur invalide"
+
+#: ../makesub.php:54
+msgid ""
+"Your username may only contain the letters A-Z and the digits 0-9. Please "
+"try another."
+msgstr ""
+"Votre nom d'utilisateur ne doit contenir que les lettres A-Z et les chiffres "
+"0-9. Svpessayez en un autre."
+
+#: ../makesub.php:57
+msgid "username too short"
+msgstr "nom d'utilisateur trop court"
+
+#: ../makesub.php:57
+msgid ""
+"Your username must be at least 4 characters long. Please try a longer one."
+msgstr ""
+"Votre nom d'utilisateur doit être composé d'au moins 4 caractères. Veuillez "
+"en saisir un plus long."
+
+#: ../makesub.php:60
+msgid "username too long"
+msgstr "nom d'utilsateur trop long"
+
+#: ../makesub.php:60
+msgid ""
+"Your username must be less than or equal to 32 characters long. Please try a "
+"shorter one."
+msgstr ""
+"Votre nom d'utilisateur doit être inférieur ou égal à 32 caractères. "
+"Veuillez en saisir un plus court."
+
+#: ../makesub.php:65
+msgid "invalid email"
+msgstr "e-mail invalide"
+
+#: ../makesub.php:65
+msgid ""
+"It appears as though your e-mail address is not valid. Please try entering "
+"it again."
+msgstr ""
+"Il semblerait que votre adresse e-mail ne soit pas valide. Veuillez la "
+"saisir de nouveau."
+
+#: ../makesub.php:70
+msgid "invalid private setting"
+msgstr "option privé invalide"
+
+#: ../makesub.php:70
+msgid ""
+"You must select either Yes or No for the private Pastebin setting. Please "
+"try again."
+msgstr ""
+"Vous devez choisir Oui ou Non pour l'option Pastebin Privé. Svp essayez "
+"encore."
+
+#: ../makesub.php:75
+msgid "invalid hostname"
+msgstr "nom d'hôte invalide"
+
+#: ../makesub.php:75
+msgid ""
+"Please keep in mind that the hostname you select will be suffixed with <i>."
+"pastebin.ca</i>, so do not include that part in the name. The hostname may "
+"only contain the characters A-Z, 0-9 and a dash. Please try again."
+msgstr ""
+"Gardez à l'esprit que le nom d'hôte que vous choississez aura pour suffixe "
+"<i>.pastebin.ca</i>, donc n'incluez pas cette partie dans le nom. Le nom "
+"d'hôte peut seulement contenir les caractères A-Z, 0-9 et un tiret. Svp "
+"essayez encore."
+
+#: ../makesub.php:79
+msgid "disallowed hostname"
+msgstr "non d'hôte non autorisé"
+
+#: ../makesub.php:79
+msgid "The hostname you selected is not allowed. Pick something more sensible."
+msgstr ""
+"le nom d'hôte que vous avez choisi n'est pas autorisé. Choississez en plus "
+"raisonnable."
+
+#: ../makesub.php:82
+msgid "hostname too long"
+msgstr "nom d'hôte trop long"
+
+#: ../makesub.php:82
+msgid ""
+"You may only provide a hostname up to 32 characters long. Please try a "
+"shorter one."
+msgstr ""
+"Vous pouvez seulement fournir un nom d'hôte ne dépassant pas 32 caractères "
+"de long. Veuillez en essayer un plus court."
+
+#: ../makesub.php:85
+msgid "hostname too short"
+msgstr "nom d'hôte trop court"
+
+#: ../makesub.php:85
+msgid "The hostname you have chosen is too short. Please try a longer one."
+msgstr ""
+"Le nom d'hôte que vous avez choisi est trop court. Veuillez en essayer un "
+"plus long."
+
+#: ../makesub.php:88
+msgid "inputs validated"
+msgstr "entrées validées"
+
+#: ../makesub.php:89
+msgid "The values you submitted are considered valid by preliminary checks."
+msgstr ""
+"Les valeurs que vous avez envoyées sont considérées comme valide par les "
+"vérifications préliminaires."
+
+#: ../makesub.php:95
+msgid "username in use"
+msgstr "nom de l'utilisateur déjà utilisé"
+
+#: ../makesub.php:95
+msgid ""
+"The username you have requested is already in use, so you will need to "
+"select a new one."
+msgstr ""
+"Le nom d'utilisateur qie vous avez demandé est déjà en cours d'utilisation, "
+"donc vous avez besoin d'en choisir un nouveau."
+
+#: ../makesub.php:99
+msgid "hostname in use"
+msgstr "nom d'hôte déjà utilisé"
+
+#: ../makesub.php:99
+msgid ""
+"The hostname you have selected is already in use. You will need to select a "
+"new one."
+msgstr ""
+"Le nom d'hôte que vous avez choisi est déjà en cours d'utilisation. Vous "
+"avez besoin d'en choisir un nouveau."
+
+#: ../makesub.php:104
+msgid "email in use"
+msgstr "email déjà utilisé"
+
+#: ../makesub.php:104
+msgid ""
+"That e-mail account is already in use. We stop multiple attempts at the same "
+"e-mail address to prevent abuse."
+msgstr ""
+"Cette adresse e-mail est déjà en cours d'utilisation. Nous n'acceptons pas "
+"plusieurs essais avec la même adresse e-mail pour éviter les abus."
+
+#: ../makesub.php:107
+msgid "The username and hostname are valid and available."
+msgstr "Le nom d'utilisateur et de d'hôte sont valides et disponibles."
+
+#: ../makesub.php:110
+msgid "confirmation"
+msgstr "confirmation"
+
+#: ../makesub.php:111
+msgid ""
+"The new Pastebin has been configured and setup. You will receive a "
+"confirmation e-mail momentarily (if you do not, <a href=\"http://netmonks.ca/"
+"contact/slepp.php\">contact Stephen Olesen</a>). In that e-mail, you will "
+"find a confirmation URL. Go to the provided address and your account will be "
+"confirmed. At that point, all the final settings will be made to activate "
+"the configuration and you will be able to use your Pastebin within minutes."
+msgstr ""
+"Le nouveau Pastebin a été configuré et installé. Vous allez recevoir un e-"
+"mail de confirmation dans quelques instants (le cas échéant, <a href="
+"\"http://netmonks.ca/contact/slepp.php\">contactez Stephen Olesen</a>). Dans "
+"cet e-mail, vous trouverez une URL de confirmation. Allez à l'adresse "
+"fournie et votre compte sera confirmé. A ce moment, tous les paramètres "
+"finaux seront crées pour activer la configuration et vous aurez alors la "
+"possibilité d'utiliser votre Pastebin les minutes qui suivent."
+
+#: ../makesub.php:128 ../makesub.php:134
+#, php-format
+msgid "Hello %s,"
+msgstr "Bonjour %s, "
+
+#: ../makesub.php:129
+#, fuzzy
+msgid ""
+"This e-mail is being sent from pastebin.ca about a new subdomain activation. "
+"If you did not request this e-mail, please notify admin@pastebin.ca. If you "
+"did request this e-mail, then please follow this URL:"
+msgstr ""
+"Cet e-mail est envoyé depuis pastebin.ca pour l'activation d'un nouveau sous-"
+"domaine. Si vous n'avez pas demandé cet e-mail, veuillez en informer admin-"
+"pastebin@netmonks. Si vous avez demandé cet e-mail, alors cliquez sur l'URL "
+"suivante:"
+
+#: ../makesub.php:131 ../makesub.php:137
+msgid ""
+"After you activate your account from that link, you will see more "
+"information about the activation of your Pastebin account. You have 3 days "
+"to do this in. If you do not do it in this time frame, it will automatically "
+"be cancelled."
+msgstr ""
+"Après avoir activé ce compte depuis ce lien, vous verrez plus d'information "
+"à propos de l'activation de votre compte Pastebin. Vous avez 3 jours pour "
+"faire celà. Si vous ne le faite pas dans ce délai, il sera automatioquement "
+"annuler."
+
+#: ../makesub.php:132
+msgid ""
+"Thanks,\n"
+"Pastebin.ca Administration"
+msgstr ""
+"Merci,\n"
+"l'Administration de Pastebin.ca"
+
+#: ../makesub.php:135
+#, fuzzy
+msgid ""
+"This e-mail is being sent from <i>pastebin.ca</i> about a new subdomain "
+"activation. If you did not request this e-mail, please notify <a href=\\"
+"\"mailto:admin@pastebin.ca\\\">the pastebin.ca administration</a>. If you "
+"did request this e-mail, then please follow this URL:"
+msgstr ""
+"Cet e-mail est envoyé depuis <i>pastebin.ca</i> pour l'activation d'un "
+"nouveau sous-domaine. Si vous n'avez pas demandé cet e-mail, veuillez en "
+"informer <a href=\\\"mailto:admin-pastebin@netmonks.ca\\\">l'administration "
+"de pastebin.ca </a>. Si vous avez demandé cet e-mail, alors cliquez sur "
+"l'URL suivante:"
+
+#: ../makesub.php:138
+msgid "Thanks,<br />Pastebin.ca Administration"
+msgstr "Merci,<br />l'Administration de Pastebin.ca"
+
+#: ../makesub.php:140 ../makesub.php:148
+msgid "Pastebin.ca Administration"
+msgstr "Administration Pastebin.ca"
+
+#: ../makesub.php:142
+msgid "New Pastebin Activation"
+msgstr "Activation du nouveau Pastebin"
+
+#: ../makesub.php:166 ../makesub.php:168
+msgid "make your own pastebin"
+msgstr "créer votre propre pastebin"
+
+#: ../makesub.php:170
+msgid ""
+"With this form, you can create a subdomain at <i>pastebin.ca</i> to host "
+"your own public or private Pastebin. Here are the details:"
+msgstr ""
+"Avec ce formulaire, vous pouvez créer un sous-domaine à <i>pastebin.ca</i> "
+"pour héberger votre propre Pastebin qu'il soit public ou privé. Voici les "
+"détails:"
+
+#: ../makesub.php:172
+msgid ""
+"A public Pastebin will be available to anyone, and is very similar to the "
+"main Pastebin. The only difference is your posts will not show in the public "
+"list, and users would have to go to your specific Pastebin to see your posts "
+"and archives."
+msgstr ""
+"Un Pastebin public sera toujours disponible pour tout le monde, et est très "
+"similaire au Pastebin principal. La seule différence est que vos messages ne "
+"seront pas visibles dans la liste publique, et les utilisateurs devront "
+"aller dans votre Pastebin spécifique pour voir vos messages."
+
+#: ../makesub.php:173
+msgid ""
+"Private Pastebins will require a username and password to view any details "
+"of what is posted in this bin. Passwords are\tnot recoverable, and you may "
+"create subusers of the bin."
+msgstr ""
+"Les Pastebins privés requierent un nom d'utilisateur et un mot de passe pour "
+"voir les détails de ce qui a été posté dans ce \"bin\". Les mots de passe"
+"\tne sont pas récupérable, et vous pouvez créer des sous-utilisateurs de ce "
+"\"bin\"."
+
+#: ../makesub.php:174
+msgid ""
+"Any Public Pastebin which is created but has no new posts in a 3 month "
+"period will be removed and the owner notified of the removal."
+msgstr ""
+"N'importe quel Pastebin qui est créé mais qui n'a pas de nouveau message "
+"durant une période de 3 mois sera supprimé et le propriétaire sera averti de "
+"la suppression."
+
+#: ../makesub.php:175
+msgid ""
+"Any Private Pastebin which is created but has no new posts in a 1 month "
+"period will cause the owner to be notified and given a few days to renew the "
+"Pastebin. If no renewal is made, all posts and the Pastebin will be removed."
+msgstr ""
+"Si un Pastebin n'a pas de nouveau message durant une période de 1 mois, le "
+"propriétaire en sera averti et aura un délai de quelques jours afin de "
+"mettre à jour son Pastebin. Si aucune mise à jour n'est faite, tous les "
+"messages et son Pastebin seront supprimés."
+
+#: ../makesub.php:176
+msgid ""
+"If you do not confirm your e-mail address within 3 days, the new bin will be "
+"removed without further notice."
+msgstr ""
+"Si vous ne confirmez pas votre adresse e-mail dans les trois jours, le "
+"nouveau \"bin\" sera supprimer sans aucun avertissement préalable."
+
+#: ../makesub.php:177
+msgid "All standard rules apply to any created Pastebins, public or private."
+msgstr ""
+"Toutes les règles standards s'appliquent à n'importe quel Pastebin, public "
+"ou privé."
+
+#: ../makesub.php:178
+msgid ""
+"Public Pastebins may or may not be indexed by search engines, private ones "
+"will not be."
+msgstr ""
+"Les Pastebins publics ont la possibilité d'être indexés ou non par les "
+"moteurs de recherche, les Pastebins privés ne le seront pas."
+
+#: ../makesub.php:179
+msgid ""
+"Public Pastebins may or may not be listed in a list of hosted Pastebins. "
+"Private Pastebins will remain hidden from listings on pastebin.ca."
+msgstr ""
+"Les Pastebins publics ont la possibilité d'être listés ou non dans la liste "
+"des Pastebins hébergés. Les Pastebins privés resteront cachés des listes de "
+"pastebin.ca."
+
+#: ../makesub.php:180
+msgid ""
+"The administration of pastebin.ca reserve the right to revoke any public or "
+"private Pastebin at any time for any reason."
+msgstr ""
+"L'administration de pastebin.ca se reserve le droit de révoquer n'importe "
+"quels Pastebins, publics ou privés, à n'importe quel moment et pour "
+"n'importe quelle raison."
+
+# It is not needed to say 'DNS propogation, mainly'.
+#: ../makesub.php:182
+msgid ""
+"That said, all you need to do is fill in the form below and follow the "
+"confirmation URL provided. After that, the Pastebin will be activated and "
+"available within 5 minutes (DNS propogation, mainly)."
+msgstr ""
+"Ceci dit, tout ce que vous avez besoin de faire est de remplir le formulaire "
+"ci-dessous et suivre l'adresse de confirmation fournie. Après ça, votre "
+"Pastebin sera activé et disponible dans les 5 minutes."
+
+#: ../makesub.php:183
+#, fuzzy
+msgid "the form"
+msgstr "arbre pour %d"
+
+#: ../makesub.php:184
+msgid ""
+"All fields are required. Sorry that it is not a very pretty looking form."
+msgstr ""
+"Tous les champs sont requis. Désolé que ce ne soit pas un formulaire super "
+"beau."
+
+#: ../makesub.php:188
+msgid "account details"
+msgstr "détails du compte"
+
+#: ../makesub.php:189 ../template.php:127 ../template.php:146
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: ../makesub.php:189
+msgid ""
+"This username is used for administration of the Pastebin. It may be between "
+"4 and 32 characters long and may only contain the letters A-Z and digits 0-9."
+msgstr ""
+"Ce nom d'utilisateur est utilisé pour la destion du Pastebin. Il peut "
+"contenir entre 4 et 32 caractères de long et ne doit être composé que des "
+"lettres A-Z et des chiffres 0-9."
+
+#: ../makesub.php:190 ../template.php:128 ../template.php:147
+msgid "Password"
+msgstr "Mot de passe"
+
+#: ../makesub.php:190
+msgid ""
+"The password to access settings and administration for your Pastebin. This "
+"must be at least 5 characters long."
+msgstr ""
+"Mot de passe pour accéder à vos options et à la gestion de votre Pastebin. "
+"Il doit être au moins composé de 5 caractères."
+
+#: ../makesub.php:191
+msgid "Again"
+msgstr "Encore"
+
+#: ../makesub.php:191
+msgid "Type your password again for confirmation"
+msgstr "Saississez votre mot de passe encore pour confirmation"
+
+#: ../makesub.php:192
+msgid "personal details"
+msgstr "détails personnels"
+
+#: ../makesub.php:193
+msgid "Full Name"
+msgstr "Nom complet"
+
+#: ../makesub.php:193
+msgid ""
+"Your full name or the name of your company. This is used for internal "
+"reference only."
+msgstr ""
+"Votre nom complet ou le nom de votre société. Il est seulement utilisé pour "
+"référencement interne."
+
+#: ../makesub.php:194
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: ../makesub.php:194
+msgid ""
+"Your e-mail address. A confirmation message will be sent here, but otherwise "
+"the e-mail address will only be used for purposes of managing the Pastebins."
+msgstr ""
+"Votre adresse e-mail. Un message de confirmation vous sera envoyé ici, mais "
+"sinon l'adresse e-mail ne sera utilisée qu'à des fins de gestion des "
+"Pastebins."
+
+#: ../makesub.php:195
+msgid "pastebin details"
+msgstr "détails pastebin"
+
+#: ../makesub.php:196
+msgid "Hostname"
+msgstr "Nom d'hôte"
+
+#: ../makesub.php:196
+msgid ""
+"The domain which you will use for the Pastebin. This must contain only valid "
+"characters for a DNS hostname. These include A-Z, 0-9, and dashes. It must "
+"be at least 3 characters long, and no longer than 32."
+msgstr ""
+"Le domaine que vous utiliserez pour votre Pastebin. Il doit contenir "
+"uniquement des caractères valides pour un nom d'hôtes DNS. Celà inclut A-Z, "
+"0-9, et les tirets. Il doit contenir au moins 3 caractères, et pas plus de "
+"32."
+
+#: ../makesub.php:197
+msgid "Private"
+msgstr "Privé"
+
+#: ../makesub.php:197
+msgid "Yes"
+msgstr "Oui"
+
+#: ../makesub.php:197
+msgid "No"
+msgstr "Non"
+
+#: ../makesub.php:197
+msgid ""
+"Should this be a private Pastebin? If so, you will require a username and "
+"password to view entries, as will anyone else wanting to use it."
+msgstr ""
+"Est-ce que ce Pastebin doit-être privé? Si oui, il vous sera demandé un nom "
+"utilisateur et un mot de passe pour voir les entrées, ainsi que pour "
+"n'importe quelle personne qui voudrait l'utiliser."
+
+#: ../makesub.php:198
+msgid "Create Pastebin"
+msgstr "Créer Votre Pastebin"
+
+#: ../news.php:13
+msgid "site news"
+msgstr "nouvelles du site"
+
+#: ../news.php:19
+msgid "some site news and updates"
+msgstr "quelques news du site et mises à jour"
+
+#: ../news.php:21 ../news.php:27 ../news.php:30 ../news.php:32 ../news.php:34
+msgid "may"
+msgstr ""
+
+#: ../news.php:22
+msgid ""
+"Hello again. This news page has pretty much been made obsolete by the "
+"creation of the new <a href=\"http://blog.slepp.ca/\">blog for Slepp</a>. "
+"For future updates, you should be checking the <a href=\"http://blog.slepp."
+"ca/\">projects categories on the blog</a>. Thanks!"
+msgstr ""
+
+#: ../news.php:23
+msgid "old news"
+msgstr ""
+
+#: ../news.php:24
+msgid "august"
+msgstr ""
+
+#: ../news.php:25
+msgid ""
+"Some database optimizations have been made, as well as rehoming the backend "
+"server to a faster, beefier one. So, the delays should be greatly reduced "
+"for page loads and other things."
+msgstr ""
+
+#: ../news.php:26
+msgid ""
+"Also, the entire site is getting pretty strict with regard to spam comments "
+"and posts. Please let me know if you find the spam protections are "
+"interfering with your regular use of the Pastebin."
+msgstr ""
+
+#: ../news.php:28
+msgid ""
+"An entirely new <a href=\"/comments.php\">commenting system</a> has been "
+"implemented on Pastebin.ca. There are three types of comments:\tgeneral "
+"public comments, comments about a post, and comments about polls. You may "
+"reply to any comment that someone has already made, or make your own "
+"comment, on any paste or poll. The comments on pastes will show at the end "
+"of the paste itself, poll comments are available from the <a href=\"/polls."
+"php\">list of polls</a>,\tand general comments are in the <a href=\"/"
+"comments.php\">Comments</a> section from the menu."
+msgstr ""
+
+#: ../news.php:29
+msgid ""
+"If you have any suggestions on improving the comment system, feel free to <a "
+"href=\"/comments.php\">leave a comment</a> in the general comments. I get e-"
+"mailed those ones."
+msgstr ""
+
+#: ../news.php:31
+msgid ""
+"Due to the gracious translation by ZeBob, we now have a completed French "
+"translation of the Pastebin. The German translation is still in progress at "
+"this time."
+msgstr ""
+
+#: ../news.php:33
+msgid ""
+"This was actually old news, but the Pastebin provides two RSS feeds for both "
+"news and posts. As more sections come online, it will also grow to include "
+"those. You can subscribe to the <a href=\"/rss/posts.rss\">Posts RSS Feed</"
+"a> or the <a href=\"/rss/news.rss\">News RSS Feed</a>. The posts\tfeed will "
+"provide an RSS feed of the most recent posts to the Pastebin for those users "
+"who are just endlessly curious about what is being pasted, while the News "
+"RSS is this information here."
+msgstr ""
+
+#: ../news.php:35
+msgid ""
+"The methods to do differences between posts is now in place. For an example, "
+"take a look at <a href=\"http://pastebin.ca/diff.php?id1=10741&amp;id2=10742"
+"\">http://pastebin.ca/diff.php?id1=10741&amp;id2=10742</a>. Presently, to "
+"view a list of changes between posts, you would go to the <i>Entire Post "
+"Tree/Differences</i> from a post that has updates, or which is an update to "
+"another post. Then you can select revisions to see the differences between. "
+"Work is in progress for a more generic difference engine to make it easier "
+"to select which posts you want to compare."
+msgstr ""
+
+#: ../news.php:36
+msgid ""
+"This system is based on the modified preorder tree traversal methods of "
+"tracking pastes. It allows any updated pastes to be tracked back through "
+"their progression of posts over time. The trees look like <a href=\"/"
+"tree20841\">this sample tree</a>. This is the same tree as the differences "
+"available above."
+msgstr ""
+
+#: ../news.php:37 ../news.php:39 ../news.php:41
+msgid "april"
+msgstr ""
+
+#: ../news.php:38
+msgid ""
+"I switched over from the previous syntax highlighter to <a href=\"http://"
+"qbnz.com/highlighter/\">GeSHi 1.0.6</a>. Let me know what you think.\tThree "
+"languages, <i>PL/I</i>, <i>Scheme</i>, and <i>Ruby</i> are not in GeSHi, but "
+"I will be adding the support for them back in shortly. Also,\tthere are some "
+"new languages available for highlighting (Action Script, Ada, Apache "
+"Configurations, Assembly (NASM), ASP, BASH Scripts, Delphi,\tHTML 4.0 "
+"Strict, JavaScript, LISP, Lua, Microprocessor ASM, Objective C, Visual "
+"Basic .NET)."
+msgstr ""
+
+#: ../news.php:40
+msgid ""
+"I created the section to allow anyone to create their own sub-domain on "
+"pastebin.ca for hosting their own pastebin, private or public. Check out <a "
+"href=\"/makesub.php\">Get a Pastebin</a>."
+msgstr ""
+
+#: ../news.php:42
+msgid ""
+"I've optimized a bunch of the SQL queries used by the Pastebin, so hopefully "
+"it is a bit faster in general. I cut down the page time from about 1 second "
+"under load to about 50ms under load. Not too bad, I think."
+msgstr ""
+
+#: ../news.php:43
+#, fuzzy
+msgid "march"
+msgstr "Rechercher"
+
+#: ../news.php:44
+msgid ""
+"I have started on the translations from English into <a href=\"http://fr."
+"pastebin.ca/\">French</a> and <a href=\"http://de.pastebin.ca/\">German</a>. "
+"The little flags at the top right will change\tthe page into the language "
+"the flag represents. Of course, I cheated and used Google, but I'd like to "
+"hear from anyone\twilling to fix up the translations."
+msgstr ""
+
+#: ../news.php:45 ../news.php:59
+msgid "february"
+msgstr ""
+
+#: ../news.php:46
+msgid ""
+"I added a list of randomized 'Anonymous' names to the system, so instead of "
+"all the posts labelled Anonymous, there will now be a bit of a mix up in "
+"names so that it might be easier to identify untitled posts on the sidebar. "
+"Let me know if you have any suggestions of other random titles to set when "
+"it is left blank."
+msgstr ""
+
+#: ../news.php:47
+msgid ""
+"There are new features in the works, including (but definitely not limited "
+"to):"
+msgstr ""
+
+#: ../news.php:49
+msgid "Ability to update post titles in place"
+msgstr ""
+
+#: ../news.php:50
+msgid ""
+"Ability to delete and modify posts based on a password, user account, or IP"
+msgstr ""
+
+#: ../news.php:51
+msgid "Hinted in the note above, user accounts"
+msgstr ""
+
+#: ../news.php:52
+#, fuzzy
+msgid "Improved/updated highlighting engine"
+msgstr "Est-ce que vous aimer le nouveau moteur de surlignagne?"
+
+#: ../news.php:53
+msgid "Language translations, if anyone wants to translate from English for me"
+msgstr ""
+
+#: ../news.php:54
+msgid "Changeable colour themes (just because I can)"
+msgstr ""
+
+#: ../news.php:57
+msgid ""
+"If you have any other suggestions, let me know. Anyone interested in seeing "
+"more than text being able to be pasted? I'm cautious about that,\tbut it "
+"might be useful. How about making the input text area larger? Or setting a "
+"default expiry time on posts?"
+msgstr ""
+
+#: ../news.php:60
+msgid ""
+"<a href=\"/auction.php\">Advertising</a> information is available for those "
+"who wish to look into it. I didn't want to step on any toes of the people "
+"who were asking, so I made it an open forum to try for advertising space. "
+"(Sorry)"
+msgstr ""
+
+#: ../news.php:61
+msgid "january"
+msgstr ""
+
+#: ../news.php:62
+msgid ""
+"Someone offered a lot of money for the domain name, and I'm curious who. If "
+"it was you, I'd like to know. I said no, if anyone is curious."
+msgstr ""
+
+#: ../old-search.php:13
+msgid "search presently disabled"
+msgstr ""
+
+#: ../old-search.php:14
+msgid "Sorry, the search page is presently disabled pending optimization."
+msgstr ""
+
+#: ../old-search.php:24
+msgid "empty search"
+msgstr "vider la recherche"
+
+#: ../old-search.php:25
+msgid "Your search didn't contain any words to search for."
+msgstr "Votre recherche ne contenait aucun mot pour à rechercher."
+
+#: ../old-search.php:35 ../search.php:32
+#, php-format
+msgid "page not found - searching for %s"
+msgstr "page non trouvée - recherchant %s"
+
+#: ../old-search.php:37 ../search.php:34
+#, php-format
+msgid "search - %s"
+msgstr "recherche - %s"
+
+#: ../old-search.php:44 ../search.php:40
+#, php-format
+msgid "Page not Found - Searching for \"%s\""
+msgstr "Page non Trouvée - Recherchant \"%s\""
+
+#: ../old-search.php:46 ../search.php:42
+#, php-format
+msgid ""
+"The exact URL you requested, %s was not found. All of the posts on this site "
+"have been searched, and the results are below."
+msgstr ""
+"L'URL exacte que vous avez demandée, %s n'a pas été trouvée.  Tous les "
+"messages à cet emplacement ont été recherchés, et les résultats sont ci-"
+"dessous."
+
+#: ../old-search.php:50 ../search.php:45
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr "Résultats de Recherche pour \"%s\""
+
+#: ../old-search.php:68
+msgid ""
+"Sorry, there are no posts that match that search. Perhaps try something "
+"simpler?"
+msgstr ""
+"Désolé, il n'y a aucun message qui correspond à cette recherche.  Peut-être "
+"pouvez-vous essayer quelque chose de plus simple?"
+
+#: ../old-search.php:70 ../old-search.php:91 ../old-search.php:117
+#: ../search.php:93 ../search.php:201
+msgid "Please enter some search terms:"
+msgstr "Veuillez écrire quelques termes de recherche:"
+
+#: ../old-search.php:74
+#, php-format
+msgid "%d post matched your search terms"
+msgid_plural "%d posts matched your search terms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../old-search.php:75
+#, php-format
+msgid " in %0.03f seconds"
+msgstr ""
+
+#: ../old-search.php:81
+#, php-format
+msgid "(rank %s)"
+msgstr "(rang %s)"
+
+#: ../old-search.php:83 ../search.php:148
+#, fuzzy
+msgid "Description:"
+msgstr "Description"
+
+#: ../old-search.php:84 ../search.php:149
+msgid "Paste Content:"
+msgstr ""
+
+#: ../old-search.php:105 ../search.php:187
+msgid "no posts to search"
+msgstr "aucun message à rechercher"
+
+#: ../old-search.php:107 ../search.php:189
+msgid "No Posts to Search"
+msgstr "Aucun message à Rechercher"
+
+#: ../old-search.php:115 ../search.php:199
+msgid "Search the Database of Posts"
+msgstr "Rechercher dans la base de données des messages"
+
+#: ../old-search.php:118 ../search.php:94 ../search.php:202
+msgid "Limit to content type"
+msgstr "Limiter à ce type de contenu"
+
+# Also valid is 'All Types'
+#: ../old-search.php:120
+msgid "Any Type"
+msgstr "Tout type"
+
+#: ../other-lang.php:3
+#, php-format
+msgid "%s year %s month %s day %s %s"
+msgstr ""
+
+#: ../other-lang.php:4 ../stat-img-dow-hour.php:20 ../stat-img-dow.php:20
+#: ../statistics.php:118 ../template.php:618
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: ../other-lang.php:5 ../stat-img-dow-hour.php:20 ../stat-img-dow.php:20
+#: ../statistics.php:118 ../template.php:618
+msgid "Monday"
+msgstr "Lundi"
+
+#: ../other-lang.php:6 ../stat-img-dow-hour.php:20 ../stat-img-dow.php:20
+#: ../statistics.php:118 ../template.php:618
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: ../other-lang.php:7 ../stat-img-dow-hour.php:20 ../stat-img-dow.php:20
+#: ../statistics.php:118 ../template.php:618
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: ../other-lang.php:8 ../stat-img-dow-hour.php:20 ../stat-img-dow.php:20
+#: ../statistics.php:118 ../template.php:618
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: ../other-lang.php:9 ../stat-img-dow-hour.php:20 ../stat-img-dow.php:20
+#: ../statistics.php:118 ../template.php:618
+msgid "Friday"
+msgstr "Vendredi"
+
+#: ../other-lang.php:10 ../stat-img-dow-hour.php:20 ../stat-img-dow.php:20
+#: ../statistics.php:118 ../template.php:618
+msgid "Saturday"
+msgstr "Samedi"
+
+#: ../other-lang.php:11
+msgid "C Source"
+msgstr ""
+
+#: ../other-lang.php:12
+msgid "C++ Source"
+msgstr ""
+
+#: ../other-lang.php:13
+msgid "PHP Source"
+msgstr ""
+
+#: ../other-lang.php:14
+msgid "Perl Source"
+msgstr ""
+
+#: ../other-lang.php:15
+msgid "Java Source"
+msgstr ""
+
+#: ../other-lang.php:16
+msgid "Visual Basic Source"
+msgstr ""
+
+#: ../other-lang.php:17
+msgid "C# Source"
+msgstr ""
+
+#: ../other-lang.php:18
+msgid "Ruby Source"
+msgstr ""
+
+#: ../other-lang.php:19
+msgid "Python Source"
+msgstr ""
+
+#: ../other-lang.php:20
+msgid "Pascal Source"
+msgstr ""
+
+#: ../other-lang.php:21
+msgid "PL/I Source"
+msgstr ""
+
+#: ../other-lang.php:22
+msgid "Scheme Source"
+msgstr ""
+
+#: ../other-lang.php:23
+msgid "Action Script"
+msgstr ""
+
+#: ../other-lang.php:24
+msgid "Assembly (NASM)"
+msgstr ""
+
+#: ../other-lang.php:25
+msgid "ASP"
+msgstr ""
+
+#: ../other-lang.php:26
+msgid "BASH Script"
+msgstr ""
+
+#: ../other-lang.php:27
+msgid "CSS"
+msgstr ""
+
+#: ../other-lang.php:28
+msgid "HTML 4.0 Strict"
+msgstr ""
+
+#: ../other-lang.php:29
+msgid "JavaScript"
+msgstr ""
+
+#: ../other-lang.php:30
+msgid "Microprocessor ASM"
+msgstr ""
+
+#: ../other-lang.php:31
+msgid "Objective C"
+msgstr ""
+
+#: ../other-lang.php:32
+msgid "Visual Basic .NET"
+msgstr ""
+
+#: ../other-lang.php:33
+#, fuzzy
+msgid "Asterisk Configuration"
+msgstr "confirmation du mot de passe"
+
+#: ../other-lang.php:34
+#, fuzzy
+msgid "Apache Configuration"
+msgstr "confirmation"
+
+#: ../other-lang.php:35
+msgid "SQL Statement"
+msgstr ""
+
+#: ../other-lang.php:36
+msgid "XML Document"
+msgstr ""
+
+#: ../other-lang.php:37
+msgid "Lua Source"
+msgstr ""
+
+#: ../other-lang.php:38
+msgid "LISP Source"
+msgstr ""
+
+#: ../other-lang.php:39
+msgid "Delphi Source"
+msgstr ""
+
+#: ../other-lang.php:40
+msgid "Ada Source"
+msgstr ""
+
+#: ../other-lang.php:41
+msgid "mIRC Script"
+msgstr ""
+
+#: ../other-lang.php:42
+msgid "Script Log"
+msgstr ""
+
+#: ../other-lang.php:43
+#, fuzzy
+msgid "year"
+msgstr "1 an"
+
+#: ../other-lang.php:44
+#, fuzzy
+msgid "month"
+msgstr "1 mois"
+
+#: ../other-lang.php:45
+#, fuzzy
+msgid "week"
+msgstr "1 semaine"
+
+#: ../other-lang.php:46
+#, fuzzy
+msgid "day"
+msgstr "1 jour"
+
+#: ../other-lang.php:47
+#, fuzzy
+msgid "hour"
+msgstr "1 heure"
+
+#: ../other-lang.php:48
+#, fuzzy
+msgid "minute"
+msgstr "5 minutes"
+
+#: ../other-lang.php:49
+msgid "second"
+msgstr ""
+
+#: ../other-lang.php:50
+#, fuzzy
+msgid "am"
+msgstr "Nom"
+
+#: ../other-lang.php:51
+msgid "pm"
+msgstr ""
+
+#: ../other-lang.php:52
+msgid "Show Menu"
+msgstr ""
+
+#: ../others.php:16
+#, fuzzy
+msgid "other pastebin.ca pastebins"
+msgstr "pastebin.ca statistiques"
+
+#: ../others.php:17
+msgid "There are other sub-pastebins on this site. They are:"
+msgstr "Il ya d'autres sous-pastebins sur ce site. Ce sont:"
+
+#: ../others.php:19
+msgid "url"
+msgstr "url"
+
+#: ../others.php:19 ../statistics.php:29 ../statistics.php:109
+#: ../statistics.php:122 ../statistics.php:144 ../statistics.php:145
+msgid "posts"
+msgstr "messages"
+
+#: ../poll.php:27
+msgid "Thank you for answering the poll question!"
+msgstr "Merci d'avoir répondu à ce sondage!"
+
+#: ../poll.php:41
+msgid "Poll"
+msgstr "Sondage"
+
+#: ../poll.php:59
+#, fuzzy
+msgid "comment on this poll"
+msgstr "Résultats de ce sondage"
+
+#: ../poll.php:59
+#, php-format
+msgid "view details and comments (%d)"
+msgstr ""
+
+#: ../polldetail.php:12
+#, fuzzy
+msgid "details of poll"
+msgstr "Résultats de ce sondage"
+
+#: ../polldetail.php:16 ../polldetail.php:24
+msgid "sorry"
+msgstr ""
+
+#: ../polldetail.php:17 ../polldetail.php:25
+#, fuzzy
+msgid "Sorry, you did not provide a valid ID."
+msgstr "Désolé, l'une des IDs que vous avez fourni est invalide"
+
+#: ../polldetail.php:48
+#, fuzzy
+msgid "description"
+msgstr "Description"
+
+#: ../polldetail.php:50
+msgid "results of this poll"
+msgstr "Résultats de ce sondage"
+
+#: ../polldetail.php:53
+#, fuzzy
+msgid "chart of results"
+msgstr "résultats des sondages actifs"
+
+#: ../polldetail.php:54
+msgid "Pie Chart"
+msgstr ""
+
+#: ../polldetail.php:59
+#, fuzzy
+msgid "comments on this poll"
+msgstr "Résultats de ce sondage"
+
+#: ../polldetail.php:60 ../polldetail.php:67
+#, fuzzy
+msgid "Add a new comment on this poll."
+msgstr "Résultats de ce sondage"
+
+#: ../polldetail.php:66
+#, fuzzy
+msgid "there are no comments on this poll"
+msgstr "Résultats de ce sondage"
+
+#: ../polls.php:12
+msgid "poll results"
+msgstr "Résultats des sondages"
+
+#: ../polls.php:14
+msgid "active poll results"
+msgstr "résultats des sondages actifs"
+
+#: ../polls.php:15
+msgid ""
+"The polls in this table are presently active and may still be answered. "
+"Mostly, I use these to determine where to take the Pastebin in the future "
+"and which features users are looking for."
+msgstr ""
+"Les sondages dans ce tableau sont encore actif et peuvent toujours être "
+"répondus Généralement , je les utilise afin de savoir où je compte emmener "
+"Pastebin à l'avenir et quelles fonctionnalités les utilisateurs recherchent."
+
+#: ../polls.php:40 ../polls.php:80
+msgid "No poll results yet!"
+msgstr "Pas encore de résultats"
+
+#: ../polls.php:44
+#, php-format
+msgid "View Details and Comments (%d)"
+msgstr ""
+
+#: ../polls.php:46
+#, fuzzy
+msgid "View Poll Details"
+msgstr "détails des sondages"
+
+#: ../polls.php:48 ../polls.php:82
+#, fuzzy
+msgid "Comment on This Poll"
+msgstr "Résultats de ce sondage"
+
+#: ../polls.php:55
+msgid "old poll results"
+msgstr "archive des sondages"
+
+#: ../polls.php:56
+msgid ""
+"The polls in this table have been finished, so they will never change in "
+"value. These polls have either been discontinued for lack of responses, or "
+"the feature request has been implemented. Something like that, anyway."
+msgstr ""
+"Les sondages dans ce tableau sont terminés, donc ils ne changeront jamais "
+"devaleur. Ces sondages ont soit été abandonné pour manque de réponses, soit "
+"la fonctionnalité demandée a été implémentée. Ou quelque chose du genre."
+
+#: ../polls.php:82
+#, fuzzy
+msgid "Poll Details and Comments"
+msgstr "Nombre total de commentaires"
+
+#: ../raw.php:17
+msgid ""
+"Please specify http://pastebin.ca/raw/XXXX where XXXX is the post number."
+msgstr ""
+"Veuillez indiquer http://fr.pastebin.ca/raw/XXXX où XXXX est le numéro de "
+"message."
+
+#: ../raw.php:26
+msgid "Invalid post ID."
+msgstr "Identification de message invalide "
+
+#: ../raw.php:38
+msgid ""
+"Invalid request. Please use the format of http://pastebin.ca/raw/XXXX where "
+"XXXX is a post number."
+msgstr ""
+"Demande invalide. Veuillez employer le format de http://fr.pastebin.ca/raw/"
+"XXXX où XXXX est un numéro de message."
+
+#: ../rawdiff.php:15
+msgid "Invalid IDs for diff requested."
+msgstr "IDs invalide pour la diff requise"
+
+#: ../rawdiff.php:20
+msgid "Request for the same post to be diffed against itself. Maybe not?"
+msgstr ""
+
+#: ../remove.php:3
+msgid "remove a paste from the pastebin"
+msgstr ""
+
+#: ../remove.php:7
+#, fuzzy
+msgid "removal of a paste"
+msgstr "Résultats de ce sondage"
+
+#: ../rss.php:15
+msgid "Forbidden"
+msgstr ""
+
+#: ../rss.php:15
+msgid "Access to this directory is denied."
+msgstr ""
+
+#: ../rss.php:53
+#, php-format
+msgid "Post number %d pasted %s of type %s is now %s old."
+msgstr ""
+
+#: ../rss.php:69 ../rss.php:71
+#, fuzzy
+msgid "PasteBin.ca News"
+msgstr "pastebin.ca commentaires"
+
+#: ../rss.php:97
+msgid "Not Found"
+msgstr ""
+
+#: ../rss.php:97
+msgid "RSS feed not found."
+msgstr ""
+
+#: ../stat-img-dow-hour.php:32 ../stat-img-dow.php:32
+msgid "Posts by Day of the Week"
+msgstr ""
+
+#: ../stat-img-hour-72.php:42
+msgid "Last 72 Hours of Posts"
+msgstr ""
+
+#: ../stat-img-hour.php:36
+msgid "Posts by Hour of the Day"
+msgstr ""
+
+#: ../statistics.php:18
+msgid "pastebin.ca statistics"
+msgstr "pastebin.ca statistiques"
+
+#: ../statistics.php:22
+msgid "statistics"
+msgstr "statistiques"
+
+#: ../statistics.php:27
+#, fuzzy
+msgid ""
+"Here are some operational statistics for the Pastebin. These include all "
+"private and public subdomains. All of the Pastebin runs on 17,431 lines of "
+"PHP and Perl written by slePP. Total line count with all the other packages "
+"included is 117,329."
+msgstr ""
+"Ici vous trouverez quelques statistiques de fonctionnement de Pastebin. Celà "
+"inclut tous les sous-domaines privés et publics. L'ensemble de Pastebin "
+"fonctionne sur 6 385 lignes de PHP écrit par slePP. Le nombre total de "
+"lignes comptées avec tous les autres packages inclus est 41 087."
+
+#: ../statistics.php:31
+msgid "Total Posts"
+msgstr "Nombre total de messages"
+
+#: ../statistics.php:32
+msgid "Never Expiring"
+msgstr "N'expirant jamais"
+
+#: ../statistics.php:33
+msgid "Expired or Expiring"
+msgstr "Expirés ou expirant"
+
+#: ../statistics.php:34
+msgid "Tagged as Spam"
+msgstr ""
+
+#: ../statistics.php:35
+#, fuzzy
+msgid "Average Hits per Post"
+msgstr "Nombre moyen de réponses par sondage"
+
+#: ../statistics.php:38
+msgid "sizes"
+msgstr "tailles"
+
+#: ../statistics.php:40
+msgid "Shortest Post"
+msgstr "Message le plus cout"
+
+#: ../statistics.php:41
+msgid "Longest Post"
+msgstr "Message le plus long"
+
+#: ../statistics.php:42
+msgid "Average Content Length"
+msgstr "Longueur moyenne du contenu"
+
+#: ../statistics.php:43
+msgid "Total Content Length"
+msgstr "Longueur totale du contenu"
+
+# Formatted in this context means 'highlighted'
+#: ../statistics.php:44
+msgid "Average Formatted Length"
+msgstr "Longueur moyenne du texte formatté"
+
+# Formatted=formatté in this context means 'highlighted'=surligné
+#: ../statistics.php:45
+msgid "Total Formatted Length"
+msgstr "Longueur totale du texte formatté"
+
+#: ../statistics.php:48
+msgid "expiration"
+msgstr "expiration"
+
+#: ../statistics.php:50
+msgid "Shortest Expiry"
+msgstr "Expiration la plus courte"
+
+#: ../statistics.php:51
+msgid "Average Expiry"
+msgstr "Expiration moyenne"
+
+#: ../statistics.php:52
+msgid "Longest Expiry"
+msgstr "Expiration la plus longue"
+
+#: ../statistics.php:57
+msgid "posts by type"
+msgstr "messages par type"
+
+#: ../statistics.php:66
+msgid "post trees"
+msgstr "arbre des messages"
+
+#: ../statistics.php:70
+msgid "Total Trees"
+msgstr "Nombre total d'arbres"
+
+#: ../statistics.php:74
+msgid "Deepest Tree"
+msgstr "Arbre le plus profond"
+
+#: ../statistics.php:75
+msgid "Average Depth"
+msgstr "Profondeur moyenne"
+
+#: ../statistics.php:78
+msgid "poll statistics"
+msgstr "statistiques des sondages"
+
+#: ../statistics.php:84
+msgid "Total Active Polls"
+msgstr "Nombre total de sondages"
+
+#: ../statistics.php:88
+msgid "Total Finished Polls"
+msgstr "Nombre total de sondages terminés"
+
+#: ../statistics.php:91
+msgid "Total Poll Responses"
+msgstr "Nombre total de sondages repondez"
+
+#: ../statistics.php:92
+msgid "Average Responses per Poll"
+msgstr "Nombre moyen de réponses par sondage"
+
+#: ../statistics.php:95
+msgid "comments"
+msgstr "commentaires"
+
+#: ../statistics.php:100
+#, fuzzy
+msgid "Total Comment Threads"
+msgstr "Longueur totale du contenu"
+
+#: ../statistics.php:101
+msgid "Total Comments"
+msgstr "Nombre total de commentaires"
+
+#: ../statistics.php:104
+msgid "top 5 posting days"
+msgstr ""
+
+#: ../statistics.php:113
+msgid "total posts by day of the week"
+msgstr ""
+
+#: ../statistics.php:126
+msgid "total posts by hour of the day (MST/MDT)"
+msgstr ""
+
+#: ../statistics.php:159
+#, fuzzy
+msgid "cache statistics"
+msgstr "statistiques"
+
+#: ../statistics.php:171
+#, fuzzy
+msgid "spammer statistics"
+msgstr "statistiques des sondages"
+
+#: ../t.php:12
+#, fuzzy, php-format
+msgid "pastes related to %s"
+msgstr "collage ajouté à la base de données"
+
+#: ../t.php:15
+#, php-format
+msgid "related pastes to tag '%s'"
+msgstr ""
+
+#: ../t.php:46
+#, fuzzy
+msgid "popular tags on the pastebin"
+msgstr "créer votre propre pastebin"
+
+#: ../t.php:48
+msgid "popular tags"
+msgstr ""
+
+#: ../template.php:112 ../template.php:129 ../template.php:148
+msgid "Login"
+msgstr "Connexion"
+
+#: ../template.php:120
+msgid "login failed"
+msgstr "la connexion a échoué"
+
+#: ../template.php:122 ../template.php:141
+msgid "private pastebin login"
+msgstr "connexion au pastebin privée"
+
+#: ../template.php:123
+msgid ""
+"The information you entered is not correct, or your account does not exist. "
+"Please try again."
+msgstr ""
+"L'information que vous avez saisi n'est pas correcte, ou votre compte "
+"n'existe pas.  Svp essayez encore."
+
+#: ../template.php:133 ../template.php:152
+msgid ""
+"If you do not yet have an account, please contact the owner and request "
+"permission."
+msgstr ""
+"Si vous n'avez pas encore un compte, contactez svp le propriétaire et "
+"demandez-lui la permission."
+
+#: ../template.php:139
+msgid "please login"
+msgstr "svp connectez-vous"
+
+#: ../template.php:142
+msgid ""
+"You must login to view this user's private pastebin. Please enter your "
+"information below:"
+msgstr ""
+"Vous devez vous connecter pour regarder le pastebin privé de cet "
+"utilisateur.  Veuillez saisir votre information ci-dessous:"
+
+#: ../template.php:193 ../template.php:194
+#, php-format
+msgid "%s's pastebin"
+msgstr "Pastebin de %s"
+
+#: ../template.php:196 ../template.php:197
+#, php-format
+msgid "pastebin of %s"
+msgstr "pastebin de %s"
+
+#: ../template.php:200 ../template.php:201
+msgid "general pastebin"
+msgstr "pastebin général"
+
+#: ../template.php:233 ../template.php:238
+msgid "English Translation"
+msgstr "Traduction anglaise"
+
+#: ../template.php:234 ../template.php:239
+msgid "French Translation"
+msgstr "Traduction française"
+
+#: ../template.php:235 ../template.php:240
+msgid "German Translation"
+msgstr "Traduction allemande"
+
+#: ../template.php:236 ../template.php:241
+#, fuzzy
+msgid "Japanese Translation"
+msgstr "Traduction allemande"
+
+#: ../template.php:276
+msgid "Hide Menu"
+msgstr ""
+
+#: ../template.php:280 ../template.php:285
+msgid "English (CA)"
+msgstr "Anglais (Canadien)"
+
+#: ../template.php:281 ../template.php:286
+msgid "French"
+msgstr "Français"
+
+#: ../template.php:282 ../template.php:287
+msgid "German"
+msgstr "Allemand"
+
+#: ../template.php:283 ../template.php:288
+msgid "Japanese"
+msgstr ""
+
+#: ../template.php:301
+msgid "error occurred"
+msgstr ""
+
+#: ../template.php:304
+msgid "Sorry, an error has occurred. Reason: "
+msgstr "Désolé, une erreur s'est produite.  Raison:"
+
+#: ../template.php:314 ../template.php:352 ../template.php:460
+#: ../template.php:505
+msgid "Show/Hide"
+msgstr ""
+
+#: ../template.php:383
+#, fuzzy
+msgid "Top Donations"
+msgstr "pas d'enchères ouvertes"
+
+#: ../template.php:394
+msgid "Stuff to Do"
+msgstr "Choses à faire"
+
+#: ../template.php:394
+msgid "New Post"
+msgstr "Nouveau Message"
+
+#: ../template.php:395
+msgid "Upload a Post"
+msgstr "Uploader un message"
+
+#: ../template.php:396
+msgid "Goto Newest"
+msgstr "Aller au plus récent"
+
+#: ../template.php:398
+msgid "Archives"
+msgstr "Archives"
+
+#: ../template.php:399
+#, fuzzy
+msgid "Tools"
+msgstr "Sondages"
+
+#: ../template.php:400
+msgid "Donate"
+msgstr ""
+
+#: ../template.php:409 ../template.php:419 ../template.php:438
+#: ../template.php:447
+msgid "Information"
+msgstr "Information"
+
+#: ../template.php:409 ../template.php:419 ../template.php:438
+#: ../template.php:447
+msgid "Site News"
+msgstr "News du site"
+
+#: ../template.php:410 ../template.php:420 ../template.php:439
+#: ../template.php:448
+msgid "Get a Pastebin"
+msgstr "Avoir son \"Pastebin\""
+
+#: ../template.php:411 ../template.php:421 ../template.php:440
+#: ../template.php:449
+#, fuzzy
+msgid "Other Pastebins"
+msgstr "Créer Votre Pastebin"
+
+#: ../template.php:412 ../template.php:422 ../template.php:441
+#: ../template.php:450
+msgid "What is This?"
+msgstr "A quoi ça sert?"
+
+#: ../template.php:413 ../template.php:423 ../template.php:442
+#: ../template.php:451
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: ../template.php:415 ../template.php:425 ../template.php:444
+#: ../template.php:453
+msgid "Polls"
+msgstr "Sondages"
+
+#: ../template.php:416
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: ../template.php:417
+msgid "Public Pastebin"
+msgstr "Pastebin Public"
+
+#: ../template.php:426 ../template.php:445
+msgid "Main Pastebin"
+msgstr "Pastebin Principal"
+
+#: ../template.php:460
+#, fuzzy
+msgid "Quick Search"
+msgstr "Rechercher"
+
+#: ../template.php:468 ../template.php:495
+#, fuzzy
+msgid "Searching..."
+msgstr "Rechercher"
+
+#: ../template.php:474
+#, fuzzy
+msgid "Enter your search terms"
+msgstr "Veuillez écrire quelques termes de recherche:"
+
+#: ../template.php:476
+#, fuzzy
+msgid "Submit search form"
+msgstr "vider la recherche"
+
+#: ../template.php:477
+#, fuzzy
+msgid "Google Search"
+msgstr "Rechercher"
+
+#: ../template.php:505
+msgid "Recent Posts"
+msgstr "Messages Récents"
+
+#: ../template.php:535 ../template.php:625 ../template.php:858
+#, fuzzy
+msgid "name"
+msgstr "Nom"
+
+#: ../template.php:577
+#, fuzzy
+msgid ""
+"You are viewing this site in Another Language. I apologize for the poor "
+"translation. <a href=\"http://pastebin.ca/slepp.php\">Contact me</a> if you "
+"would like to help."
+msgstr ""
+"Vous regardez ce site en français. La traduction a été faite par ZeBob. Si "
+"vous trouvez une erreur, contactez-le via <a href=\"http://netmonks.ca/"
+"contact/slepp.php\">slePP</a>."
+
+#: ../template.php:605
+msgid "Raw"
+msgstr ""
+
+#: ../template.php:611
+msgid "Tree"
+msgstr ""
+
+#: ../template.php:614
+#, fuzzy
+msgid "Descendants"
+msgstr "Descendants: "
+
+#: ../template.php:619
+#, php-format
+msgid "%s year %s month %s day %s %02d:%02d:%02d"
+msgstr ""
+
+#: ../template.php:623
+#, fuzzy
+msgid "This URL:"
+msgstr "Cette URL:"
+
+#: ../template.php:624
+msgid "Alternatives:"
+msgstr ""
+
+#: ../template.php:625
+msgid "Language:"
+msgstr ""
+
+#: ../template.php:642
+msgid "Age:"
+msgstr ""
+
+#: ../template.php:685
+#, php-format
+msgid "This post will expire in %s"
+msgstr "Ce message va expirer dans %s"
+
+#: ../template.php:690
+#, php-format
+msgid "This post has %d comment thread shown at the end of this page."
+msgid_plural ""
+"This post has %d comment threads shown at the bottom of this page."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../template.php:707
+#, fuzzy
+msgid "description of this post"
+msgstr "Résultats de ce sondage"
+
+#: ../template.php:762
+#, fuzzy
+msgid "Total Paste Views:"
+msgstr "Nombre total de messages"
+
+#: ../template.php:762
+msgid "Trackback"
+msgstr ""
+
+#: ../template.php:762
+#, fuzzy
+msgid "PermaLink"
+msgstr "Allemand"
+
+#: ../template.php:767
+msgid "Remove Paste"
+msgstr ""
+
+#: ../template.php:781
+#, fuzzy
+msgid "Update the Post"
+msgstr "Message mis à jour: "
+
+#: ../template.php:782
+msgid ""
+"Either update this post and resubmit it with changes, or <a href=\"index.php?"
+"a=n\">make a new post</a>."
+msgstr ""
+"Soit mettez à jour ce message et ré-envoyez-le avec les modifications, soit "
+"<a href=\"index.php?a=n\">créer un nouveau message</a>."
+
+#: ../template.php:783
+#, php-format
+msgid ""
+"You may also <a href=\"/comments.php?bin_id=%d\">comment on this post</a>."
+msgstr ""
+
+#: ../template.php:785
+msgid "Create a New Pastebin Post"
+msgstr "Créer un nouveau message Pastebin"
+
+#: ../template.php:787
+msgid ""
+"Welcome to the Pastebin. For information on what this is, take a look at the "
+"<a href=\"/what.php\">What is This?</a> page."
+msgstr ""
+"Bienvenue à Pastebin.  Pour sur d'information sur ce site, jetez un coup "
+"d'oeil à : <a href=\"/what.php\">A quoi ça sert?</a> page."
+
+#: ../template.php:789
+msgid ""
+"You may also want to see the <a href=\"/newest.php\">most recent post</a> to "
+"the pastebin."
+msgstr ""
+"Vous pouvez également vouloir voir <a href=\"/newest.php\">le message le "
+"plus récent</a> au pastebin."
+
+#: ../template.php:796
+#, fuzzy
+msgid "new paste below"
+msgstr "svp connectez-vous"
+
+#: ../template.php:796
+#, fuzzy
+msgid "update paste below"
+msgstr "svp connectez-vous"
+
+#: ../template.php:799
+msgid ""
+"Please enter your new post below (or <a href=\"upload.php\">upload a file</"
+"a> instead):"
+msgstr ""
+"Saississez votre nouveau message ci-dessous svp (ou <a href=\"upload.php"
+"\">envoyer un fichier</a>):"
+
+#: ../template.php:803 ../template.php:889 ../upload.php:129
+msgid "Submit Post"
+msgstr "Envoyer le message"
+
+#: ../template.php:803 ../template.php:889
+msgid "Reset Form"
+msgstr ""
+
+#: ../template.php:807
+#, fuzzy
+msgid "details of the post"
+msgstr "Résultats de ce sondage"
+
+#: ../template.php:807
+msgid "(optional)"
+msgstr ""
+
+#: ../template.php:809
+msgid ""
+"<b>Note:</b> Only the paste content is required, though the following "
+"information can be useful to others."
+msgstr ""
+
+#: ../template.php:824
+#, fuzzy
+msgid "Name / Title:"
+msgstr "Nom/Titre:"
+
+#: ../template.php:824
+#, fuzzy
+msgid "Save name / title?"
+msgstr "Nom/Titre:"
+
+#: ../template.php:825
+#, fuzzy
+msgid "Description / Question:"
+msgstr "Description"
+
+#: ../template.php:826
+msgid "Tags:"
+msgstr ""
+
+#: ../template.php:835
+msgid "(space separated, optional)"
+msgstr ""
+
+#: ../template.php:836
+msgid "Content Type:"
+msgstr "Type de contenu:"
+
+#: ../template.php:862 ../upload.php:103
+msgid "Expire this post in:"
+msgstr "Expiration du message dans:"
+
+#: ../template.php:863 ../upload.php:104
+msgid "Never"
+msgstr "Jamais"
+
+#: ../template.php:864 ../upload.php:105
+msgid "5 minutes"
+msgstr "5 minutes"
+
+#: ../template.php:865 ../upload.php:106
+msgid "10 minutes"
+msgstr "10 minutes"
+
+#: ../template.php:866 ../upload.php:107
+msgid "15 minutes"
+msgstr "15 minutes"
+
+#: ../template.php:867 ../upload.php:108
+msgid "30 minutes"
+msgstr "30 minutes"
+
+#: ../template.php:868 ../upload.php:109
+msgid "45 minutes"
+msgstr "45 minutes"
+
+#: ../template.php:869 ../upload.php:110
+msgid "1 hour"
+msgstr "1 heure"
+
+#: ../template.php:870 ../upload.php:111
+msgid "2 hours"
+msgstr "2 heures"
+
+#: ../template.php:871 ../upload.php:112
+msgid "4 hours"
+msgstr "4 heures"
+
+#: ../template.php:872 ../upload.php:113
+msgid "8 hours"
+msgstr "8 heures"
+
+#: ../template.php:873 ../upload.php:114
+msgid "12 hours"
+msgstr "12 heures"
+
+#: ../template.php:874 ../upload.php:115
+msgid "1 day"
+msgstr "1 jour"
+
+#: ../template.php:875 ../upload.php:116
+msgid "2 days"
+msgstr "2 jours"
+
+#: ../template.php:876 ../upload.php:117
+msgid "3 days"
+msgstr "3 jours"
+
+#: ../template.php:877 ../upload.php:118
+msgid "1 week"
+msgstr "1 semaine"
+
+#: ../template.php:878 ../upload.php:119
+msgid "2 weeks"
+msgstr "2 semaines"
+
+#: ../template.php:879 ../upload.php:120
+msgid "3 weeks"
+msgstr "3 semaines"
+
+#: ../template.php:880 ../upload.php:121
+msgid "1 month"
+msgstr "1 mois"
+
+#: ../template.php:881 ../upload.php:122
+msgid "2 months"
+msgstr "2 mois"
+
+#: ../template.php:882 ../upload.php:123
+msgid "3 months"
+msgstr "3 mois"
+
+#: ../template.php:883 ../upload.php:124
+msgid "4 months"
+msgstr "4 mois"
+
+#: ../template.php:884 ../upload.php:125
+msgid "5 months"
+msgstr "5 mois"
+
+#: ../template.php:885 ../upload.php:126
+msgid "6 months"
+msgstr "6 mois"
+
+#: ../template.php:886 ../upload.php:127
+msgid "1 year"
+msgstr "1 an"
+
+#: ../template.php:887
+msgid "Save expiry to be the default?"
+msgstr ""
+
+#: ../template.php:888
+#, fuzzy
+msgid "Encrypt this paste."
+msgstr "Résultats de ce sondage"
+
+#: ../template.php:895
+#, fuzzy
+msgid ""
+"Please note that information posted here will not expire by default. If you "
+"want it to expire, please set the expiry time above. If it is set to expire, "
+"web search engines will not be allowed to index it prior to it expiring. "
+"Items that are not marked to expire will be indexable by search engines. Be "
+"careful with your passwords."
+msgstr ""
+"Veuillez noter que les informations postées ici ne vont jamais expirer par "
+"défaut. Si vous voulez qu'elles expirent, veuillez définir le temps "
+"d'expiration ci-dessus. Si elles sont définies pour expirer, les moteurs de "
+"recherche ne seront pas autorisés à les indexer avant leur expiration. Les "
+"informations qui ne sont pas destinées à expirer seront indexable par les "
+"moteurs de recherche. Soyez prudent avec vos mots de passe."
+
+#: ../template.php:900
+msgid "comments on this paste"
+msgstr ""
+
+#: ../template.php:902
+#, fuzzy
+msgid "Comment threads:"
+msgstr "Longueur totale du contenu"
+
+#: ../template.php:908
+#, fuzzy
+msgid "the comment threads"
+msgstr "Longueur totale du contenu"
+
+#: ../template.php:935
+msgid "services provided and written by"
+msgstr "services fournis et écrits par"
+
+#: ../thanks.php:34
+msgid "thanks for donating"
+msgstr ""
+
+#: ../thanks.php:37
+msgid "thank you!"
+msgstr ""
+
+#: ../thanks.php:41
+#, fuzzy
+msgid "donation failed"
+msgstr "la connexion a échoué"
+
+#: ../thanks.php:44
+msgid "donation transaction failure"
+msgstr ""
+
+#: ../tools.php:11
+#, fuzzy
+msgid "pastebin.ca scripts and tools"
+msgstr "pastebin.ca statistiques"
+
+#: ../tools.php:17
+#, fuzzy
+msgid "scripts and tools"
+msgstr "Description"
+
+#: ../tools.php:22
+msgid "paste submission"
+msgstr ""
+
+#: ../tools.php:31
+msgid "notes for tool or script authors"
+msgstr ""
+
+#: ../tools.php:37
+msgid "xml-rpc pastebin interface"
+msgstr ""
+
+#: ../trackback.php:55
+#, fuzzy
+msgid "pastebin trackbacks for "
+msgstr "détails pastebin"
+
+#: ../trackback.php:62
+msgid "no trackbacks or pingbacks"
+msgstr ""
+
+#: ../trackback.php:63
+msgid ""
+"Sorry, this page presently does not have any trackbacks registered. Are you "
+"just <a href=\"http://en.wikipedia.org/wiki/Trackback\">wondering what a "
+"Trackback is</a>? This page also includes <a href=\"http://www.hixie.ch/"
+"specs/pingback/pingback\">Pingbacks</a>."
+msgstr ""
+
+#: ../trackback.php:67
+msgid "trackback and pingback summary"
+msgstr ""
+
+#: ../trackback.php:68
+#, php-format
+msgid ""
+"The post numbered %d has %d <a href=\"http://en.wikipedia.org/wiki/Trackback"
+"\">trackbacks</a> or <a href=\"http://www.hixie.ch/specs/pingback/pingback"
+"\">pingbacks</a>. They are listed below."
+msgstr ""
+
+#: ../trackback.php:71
+msgid "trackbacks and pingbacks"
+msgstr ""
+
+#: ../tree.php:31
+#, php-format
+msgid "tree for %d"
+msgstr "arbre pour %d"
+
+#: ../tree.php:33
+#, php-format
+msgid "tree of changes for tree #%d"
+msgstr "Arbre des modifications pour l'arbre #%d"
+
+#: ../tree.php:34
+#, php-format
+msgid ""
+"This is the list of changes made to post %d since it was posted (including "
+"the original post)."
+msgstr ""
+"C'est la liste des modifications effectuées au message %d depuis qu'il a "
+"été  envoyé (dont le message original)."
+
+#: ../tree.php:57
+msgid "There is only one post in this tree, so there is nothing to show here."
+msgstr ""
+
+#: ../tree.php:80
+msgid "view diffs"
+msgstr "voir les différences"
+
+#: ../tree.php:81
+msgid ""
+"You may select two posts you wish to see changes between. It will provide "
+"the changes needed to the orginal source to arrive at the updated source."
+msgstr ""
+"Vous pouvez sélectionner deux messages dont vous voulez voir les "
+"modifications entre. Cela fournira les modifications nécessaires à la source "
+"originale pour arriver à la source mise à jour."
+
+#: ../tree.php:84
+msgid "View changes between"
+msgstr "Afficher les modifications entre"
+
+#: ../tree.php:91
+msgid "and"
+msgstr "et"
+
+#: ../tree.php:110
+msgid "as a directed graph"
+msgstr "comme un graph dirigé"
+
+#: ../upload.php:15
+msgid "upload too big"
+msgstr "envoi trop grand"
+
+#: ../upload.php:17 ../upload.php:24 ../upload.php:26 ../upload.php:35
+msgid "upload invalid"
+msgstr "envoi invalide"
+
+#: ../upload.php:18
+#, fuzzy
+msgid ""
+"We did say the maximum allowable file size is 150,000 bytes. You sent us a "
+"file that is too big. Sorry, it is being ignored."
+msgstr ""
+"Nous avons dit que la taille maximal permise pour un fichier est 60.000 "
+"bytes.  Vous nous avez envoyé un fichier qui est trop grand.  Désolé, il est "
+"ignoré."
+
+#: ../upload.php:27
+msgid ""
+"Sorry, either no file or only a partial file was received. Please try again."
+msgstr ""
+"Désolé, aucun fichier ou seulement un fichier partiel a été reçu.  Svp "
+"essayez encore."
+
+#: ../upload.php:33
+msgid "upload attack"
+msgstr "upload attack"
+
+#: ../upload.php:36
+msgid "Hey, don't do that."
+msgstr "Hé, ne faites pas cela."
+
+#: ../upload.php:44 ../upload.php:46
+msgid "upload error"
+msgstr "erreur lors de l'envoi"
+
+#: ../upload.php:47
+msgid "There was an error opening the uploaded file. Please try again."
+msgstr ""
+"Il y a eu une erreur en ouvrant le fichier envoyé.  Svp essayez encore."
+
+#: ../upload.php:65 ../upload.php:67
+msgid "upload violation"
+msgstr "upload violation"
+
+#: ../upload.php:68
+#, php-format
+msgid ""
+"Sorry, but the file you sent has more than 10% binary characters in it. "
+"We're guessing that means it is a binary file, and not a text file. It will "
+"be ignored."
+msgstr ""
+"Désolé, mais le fichier que vous avez envoyé est composé plus de 10% de "
+"caractères binaires.  Nous devinons que c'est un fichier binaire, et pas un "
+"fichier texte.  Il sera ignoré."
+
+#: ../upload.php:74
+msgid "uploaded file accepted"
+msgstr "fichier envoyé accepté"
+
+#: ../upload.php:76
+msgid "upload accepted"
+msgstr "upload accepté"
+
+#: ../upload.php:77
+msgid "The uploaded file has been accepted."
+msgstr "Le fichier envoyé a été accepté."
+
+#: ../upload.php:79
+#, php-format
+msgid ""
+"A total of %d characters were filtered due to being outside the bounds of "
+"our ASCII character set restrictions."
+msgstr ""
+"Un total de %d caractères ont dû être filtré pour être en dehors des limites "
+"de nos restrictions de jeu de caractères Ascii."
+
+#: ../upload.php:82
+msgid ""
+"Your uploaded file contents are below. You may edit them before submitting:"
+msgstr ""
+"Le contenu de votre fichier uploadé est ci-dessous.  Vous pouvez l'éditer "
+"avant l'envoi:"
+
+#: ../upload.php:101
+msgid "Name/Title:"
+msgstr "Nom/Titre:"
+
+#: ../upload.php:102
+msgid "Save this name/title in a cookie?"
+msgstr "Sauvez ce nom/titre dans un cookie?"
+
+#: ../upload.php:129
+msgid "Reset Text Area"
+msgstr "Effacer la zone de texte"
+
+#: ../upload.php:140
+msgid "upload a file"
+msgstr "envoyer un fichier"
+
+#: ../upload.php:142
+msgid "Upload a File"
+msgstr "Envoyer un Fichier"
+
+# This says: uploads will be filtered for non-ASCII characters
+#: ../upload.php:144
+#, fuzzy
+msgid ""
+"Please note that uploaded files must be in text format, and may not exceed "
+"150,000 bytes. Once uploaded, it will be pasted as normal into the pastebin. "
+"Note that for sanity reasons, only a selected ASCII character set will make "
+"it through to the final paste."
+msgstr ""
+"Veuillez noter que les fichiers envoyés doivent être au format texte, et ne "
+"doivent pas excéder 60 000 bytes. Une fois envoyé, seul une sélection de "
+"caractères ASCII passera jusqu'au \"collage\" final."
+
+#: ../upload.php:146
+msgid "File:"
+msgstr "Fichier:"
+
+#: ../upload.php:149
+msgid "Upload"
+msgstr "Envoyer le fichier"
+
+#: ../what-old.php:13 ../what.php:13
+msgid "what is this?"
+msgstr "qu'est-ce que c'est?"
+
+#: ../what-old.php:19 ../what.php:19
+msgid "what exactly is this?"
+msgstr "qu'est-ce que c'est exactement?"
+
+#: ../what-old.php:21 ../what.php:21
+msgid ""
+"This is a public place to paste things (primarily configurations and source "
+"code), but it is really open\n"
+"\tto pretty much any text format. The idea is to paste large items here when "
+"talking online to someone, or\n"
+"\teven when holding a phone conversation to paste the little things that are "
+"hard to explain."
+msgstr ""
+"C'est une place publique pour coller des choses (essentiellement des "
+"configurations et du code source), mais c'est en réalité ouvert à n'importe "
+"quoi en format texte. L'idée est de coller ici de larges items quand vous "
+"parlez en ligne avec quelqu'un, ou même quand vous êtes au téléphone pour "
+"coller les petites choses difficiles à expliquer."
+
+#: ../what-old.php:24
+msgid ""
+"Keep in mind that any posts to the public pastebin (<a href=\"http://"
+"pastebin.ca/\">http://pastebin.ca/</a>)\n"
+"\tare considered to be placed into the public domain. So, before posting, "
+"remember that you are disclaiming any\n"
+"\townership of the content (it is public, after all). Posts may be moderated "
+"by the administration if they contain\n"
+"\tthings that are considered bad taste or form (such as spam). If you "
+"require that a post be removed due to\n"
+"\tposting it by accident (say you forgot to remove a password), <a href="
+"\"http://www.netmonks.ca/contact/slepp.php\">let us know</a> as soon as "
+"possible.\n"
+"\tWe will never refuse to remove a post if we can determine with reasonable "
+"satisfaction that you are the actual poster."
+msgstr ""
+"Gardez à l'esprit que tous les messages du pastebin public (<a href=\"http://"
+"fr.pastebin.ca\">http://fr.pastebin.ca/</a>) sont considérés comme du "
+"domaine public. Donc, avant de poster, souvenez-vous que vous abandonnez "
+"tout droit de propriété sur le contenu (c'est public après tout). Les "
+"messages peuvent être modéré par l'administration s'ils contiennent des "
+"choses qui sont considérées comme de mauvais goût ou de mauvaise intention "
+"(comme du spam). Si vous demandez à ce qu'un message soit retiré à cause "
+"d'un envoi par accident (genre vous avez oublié d'enlever un mot de passe), "
+"<a href=\"http://www.netmonks.ca/contact/slepp.php\">dites-le nous</a> le "
+"plus vite possible. Nous ne refuserons jamais de retirer un message si nous "
+"pouvons déterminer avec une certitude raisonnable que vous êtes le posteur "
+"original."
+
+#: ../what-old.php:30 ../what.php:30
+msgid "where did it come from?"
+msgstr "d'où ça vient?"
+
+#: ../what-old.php:31
+msgid ""
+"The pastebin came into being after seeing and using <a href=\"http://www."
+"pastebin.com/\">www.pastebin.com</a>. It is true\n"
+"\tthat this idea is far from an original one, but it is actually 100% "
+"written by <a href=\"http://www.netmonks.ca/contact/slepp.php\">Stephen "
+"Olesen</a>\n"
+"\tof <a href=\"http://www.netmonks.ca/tools/\">NetMonks Consulting</a>. "
+"Though it may look the same,\n"
+"\tthe backend is quite different."
+msgstr ""
+"Pastebin est né après avoir vu et utilisé <a href=\"http://www.pastebin.com/"
+"\">www.pastebin.com</a>. Il est vrai que cette idée est éloignée de "
+"l'originale, mais actuellement la totalité est écrite par <a href=\"http://"
+"www.netmonks.ca/contact/slepp.php\">Stephen Olesen</a> de <a href=\"http://"
+"www.netmonks.ca/\">NetMonks Consulting</a>. Bien que ça ressemble, le "
+"principe est tout à fait différent."
+
+#: ../what-old.php:35
+msgid ""
+"The need to make a new one that was different arose since the <i>pastebin."
+"com</i> site forces a PHP style to the\n"
+"\tpastes. Being an active member of a number of other communities which use "
+"different languages, the PHP style didn't\n"
+"\talways assist the readability of a post. (The actual highlighting code was "
+"borrowed from another person, though.)"
+msgstr ""
+"Le besoin d'en créer un nouveau qui soit différent a surgi depuis que "
+"<i>pastebin.com</i> a forcé un style PHP pour les collages. Etant un membre "
+"actif d'un certain nombre d'autres communautés qui utilisent différents "
+"langages, le style PHP n'était pas toujours au service de la compréhension "
+"d'un message. (D'ailleurs, le code de surlignement a été emprunté à une "
+"autre personne)."
+
+#: ../what-old.php:38
+msgid ""
+"With extensible formats and new formats not in the borrowed code, we think "
+"that <i>pastebin.ca</i> has a lot to offer users."
+msgstr ""
+"Avec des formats extensibles et de nouveaux formats pas dans le code "
+"emprunté, nous pensons que <i>pastebin.ca</i> a beaucoup à offrir aux "
+"utilisateurs."
+
+#: ../what-old.php:39 ../what.php:39
+msgid "it wants a password. why?"
+msgstr "il veut un mot de passe, pourquoi?"
+
+#: ../what-old.php:40 ../what.php:40
+msgid ""
+"We provide virtual pastebins to users (see below). Some of them are private "
+"and require a username and password. If you don't have one,\n"
+"\tyou probably ended up there by accident. You will want to go to the main "
+"pastebin at <a href=\"http://pastebin.ca/\">http://pastebin.ca/</a>."
+msgstr ""
+"Nous fournissons des pastebins virtuels aux utilisateurs (voir ci-dessous). "
+"Certains d'entre eux sont privés et nécessitent un nom d'utilisateur et un "
+"mot de passe. Si vous n'en n'avez pas un, vous avez propablement échoué là "
+"par accident. Vous devriez aller au pastebin principal à <a href=\"http://fr."
+"pastebin.ca/\">http://fr.pastebin.ca/</a>."
+
+#: ../what-old.php:43 ../what.php:43
+msgid "can i have the source?"
+msgstr "est-ce que je peux avoir le source?"
+
+#: ../what-old.php:44 ../what.php:44
+msgid ""
+"You can if you want (especially the highlighting code). However, it may not "
+"be of much use to anyone but ourselves since it is\n"
+"\tfairly specific to how we do things here. Instead, you may want to request "
+"your own subdomain on pastebin.ca which will give you\n"
+"\teither a private pastebin (viewers need a username and password to look at "
+"it and post items) or you can go for just another\n"
+"\tpublic pastebin if you have a desire to use it a lot, but want to keep "
+"your posts and others' posts to be separate from the primary\n"
+"\tpastebin."
+msgstr ""
+"Vous pouvez si vous le voulez (en particulier le code de surlignage). Malgré "
+"celà, celà ne sera pas d'une grande utilité à grand monde à part nous car il "
+"est très spécifique à la manière dont nous faisons les choses ici. Au lieu "
+"de ça, vous préferrerez sans doute demander votre propre sous-domaine à "
+"pastebin.ca ce qui vous donnera soit un pastebin privé (les usagers auront "
+"besoin d'un nom d'utilisateur et d'un mot de passe pour le voir et pour "
+"poster des choses), soit un autre pastebin public si vous désirez l'utiliser "
+"beaucoup, mais vouler garder vos messages séparés des autres messages de "
+"pastebin principal."
+
+#: ../what-old.php:49 ../what.php:49
+msgid "how do i get a subdomain?"
+msgstr "comment puis-je avoir un sous-domaine?"
+
+#: ../what-old.php:50
+msgid ""
+"Find <a href=\"http://www.netmonks.ca/contact/slepp.php\">slePP</a> somehow "
+"and ask, or do it the easy way and go to <a href=\"http://pastebin.ca/"
+"makesub.php\">Get a Pastebin</a>."
+msgstr ""
+"Trouvez <a href=\"http://www.netmonks.ca/contact/slepp.php\">slePP</a> d'une "
+"façon ou d'une autre et <a href=\"http://fr.pastebin.ca/makesub.php\">Avoir "
+"son \"Pastebin\"</a>."
+
+#: ../what-old.php:51 ../what.php:51
+msgid "who maintains this?"
+msgstr "qui s'occupe de tout ça?"
+
+#
+#: ../what-old.php:52
+msgid ""
+"Primarily, the site is maintained and owned by <a href=\"http://www.netmonks."
+"ca/contact/slepp.php\">Stephen 'slePP' Olesen</a>, with the server\n"
+"\tprovided by <a href=\"http://www.netmonks.ca/\">NetMonks Consulting "
+"Corporation</a>. All costs and operational overheads are paid by NetMonks "
+"Consulting,\n"
+"\tand all programming and service administration is done by Stephen. The "
+"domain name was paid for by William Suffill. German translation done by "
+"Michael \"laga\" Haas. French translation done by ZeBob."
+msgstr ""
+"Les site est essentiellement maintenu à jour par <a href=\"http://www."
+"netmonks.ca/contact/slepp.php\">Stephen 'slePP' Olesen</a>, avec le serveur "
+"fourni par <a href=\"http://www.netmonks.ca/\">NetMonks Consulting "
+"Corporation</a>. Tous les coûts de maintenance sont payés par NetMonks "
+"Consulting, et toute la programmation et la gestion des services sont "
+"réalisées par Stephen. Le nom de domaine est payé par William Suffill. La "
+"traduction allemande est faite par Michael ?Iaga? Haas. La traduction "
+"française est faite par ZeBob."
+
+#: ../what-old.php:55 ../what.php:55
+msgid "what if i have problems?"
+msgstr "et si j'ai des problèmes?"
+
+#: ../what-old.php:56 ../what.php:56
+msgid ""
+"Well, there is not really any support to be given for this site. If you "
+"can't figure it out, we're sorry. Maybe you can ask and we'll make some\n"
+"\tchanges to make it easier for people in the future. But, as it stands, "
+"there is no support."
+msgstr ""
+"Et bien, il n'y a pas vraiment de support qui puisse être donné pour ce "
+"site. Si vous n'arrivez pas à comprendre, nous en sommes désolés. Peut-être "
+"pouvez-vous demander et nous ferons quelques changements pour le rendre plus "
+"facile pour les gens plus tard. Mais, à ce jour, il n'y a pas de support."
+
+#: ../what-old.php:58
+msgid ""
+"If, however, you find a bug, or simply want to request a new feature, let <a "
+"href=\"http://www.netmonks.ca/contact/slepp.php\">slePP</a> know."
+msgstr ""
+"Si, néanmoins, vous trouvez un bug, ou si simplement vous voulez proposer "
+"une nouvelle fonctionnalité, faites-le savoir à <a href=\"http://www."
+"netmonks.ca/contact/slepp.php\">slePP</a>."
+
+#: ../what-old.php:59 ../what.php:59
+msgid "disclaimer"
+msgstr "disclaimer"
+
+#: ../what-old.php:60
+msgid ""
+"Please note that as this is a public forum which anyone can paste content "
+"to, NetMonks Consulting Corporation, its affiliates and employees are\n"
+"\tnot responsible for the content in any way. Requests for removal will be "
+"honoured, but beyond that NetMonks Consulting Corporation assumes no\n"
+"\tliability."
+msgstr ""
+"Veuillez considérer qu comme c'est un forum public où tout le monde peut "
+"coller du contenu, NetMonks Consulting Corporation, ses filiales et ses "
+"employés ne sont pas responsable du contenu de n'importe quelle façon. Les "
+"demandes de supression seront honorées, mais au-delà de ça NetMonks "
+"Consulting Corporation n'assume aucune responsabilité."
+
+#: ../what.php:24
+#, fuzzy
+msgid ""
+"Keep in mind that any posts to the public pastebin (<a href=\"http://"
+"pastebin.ca/\">http://pastebin.ca/</a>)\n"
+"\tare considered to be placed into the public domain. So, before posting, "
+"remember that you are disclaiming any\n"
+"\townership of the content (it is public, after all). Posts may be moderated "
+"by the administration if they contain\n"
+"\tthings that are considered bad taste or form (such as spam). If you "
+"require that a post be removed due to\n"
+"\tposting it by accident (say you forgot to remove a password), <a href="
+"\"http://blog.slepp.ca/contact/\">let us know</a> as soon as possible.\n"
+"\tWe will never refuse to remove a post if we can determine with reasonable "
+"satisfaction that you are the actual poster."
+msgstr ""
+"Gardez à l'esprit que tous les messages du pastebin public (<a href=\"http://"
+"fr.pastebin.ca\">http://fr.pastebin.ca/</a>) sont considérés comme du "
+"domaine public. Donc, avant de poster, souvenez-vous que vous abandonnez "
+"tout droit de propriété sur le contenu (c'est public après tout). Les "
+"messages peuvent être modéré par l'administration s'ils contiennent des "
+"choses qui sont considérées comme de mauvais goût ou de mauvaise intention "
+"(comme du spam). Si vous demandez à ce qu'un message soit retiré à cause "
+"d'un envoi par accident (genre vous avez oublié d'enlever un mot de passe), "
+"<a href=\"http://www.netmonks.ca/contact/slepp.php\">dites-le nous</a> le "
+"plus vite possible. Nous ne refuserons jamais de retirer un message si nous "
+"pouvons déterminer avec une certitude raisonnable que vous êtes le posteur "
+"original."
+
+#: ../what.php:31
+#, fuzzy
+msgid ""
+"It is true\n"
+"\tthat this idea is far from an original one, but it is actually 100% "
+"written by <a href=\"http://blog.slepp.ca/contact/\">Stephen Olesen</a>\n"
+"\tof <a href=\"http://www.netmonks.ca/tools/\">NetMonks Consulting</a>. "
+"Though it may look the same,\n"
+"\tthe backend is quite different."
+msgstr ""
+"Pastebin est né après avoir vu et utilisé <a href=\"http://www.pastebin.com/"
+"\">www.pastebin.com</a>. Il est vrai que cette idée est éloignée de "
+"l'originale, mais actuellement la totalité est écrite par <a href=\"http://"
+"www.netmonks.ca/contact/slepp.php\">Stephen Olesen</a> de <a href=\"http://"
+"www.netmonks.ca/\">NetMonks Consulting</a>. Bien que ça ressemble, le "
+"principe est tout à fait différent."
+
+#: ../what.php:35
+#, fuzzy
+msgid ""
+"The need to make a new one that was different arose both due to the other "
+"optoins forcing certain styles or lacking a variety of styles, as well as "
+"slePP wanted a new project.\n"
+"\tBeing an active member of a number of other communities which use "
+"different languages, the PHP style didn't\n"
+"\talways assist the readability of a post. (The actual highlighting code was "
+"borrowed from another person, though.)"
+msgstr ""
+"Le besoin d'en créer un nouveau qui soit différent a surgi depuis que "
+"<i>pastebin.com</i> a forcé un style PHP pour les collages. Etant un membre "
+"actif d'un certain nombre d'autres communautés qui utilisent différents "
+"langages, le style PHP n'était pas toujours au service de la compréhension "
+"d'un message. (D'ailleurs, le code de surlignement a été emprunté à une "
+"autre personne)."
+
+#: ../what.php:38
+#, fuzzy
+msgid ""
+"With extensible formats and new formats not in the borrowed highlighting "
+"code, we think that <i>pastebin.ca</i> has a lot to offer users."
+msgstr ""
+"Avec des formats extensibles et de nouveaux formats pas dans le code "
+"emprunté, nous pensons que <i>pastebin.ca</i> a beaucoup à offrir aux "
+"utilisateurs."
+
+#: ../what.php:50
+#, fuzzy
+msgid ""
+"Find <a href=\"http://blog.slepp.ca/contact/\">slePP</a> somehow and ask, or "
+"do it the easy way and go to <a href=\"http://pastebin.ca/makesub.php\">Get "
+"a Pastebin</a>."
+msgstr ""
+"Trouvez <a href=\"http://www.netmonks.ca/contact/slepp.php\">slePP</a> d'une "
+"façon ou d'une autre et <a href=\"http://fr.pastebin.ca/makesub.php\">Avoir "
+"son \"Pastebin\"</a>."
+
+#
+#: ../what.php:52
+#, fuzzy
+msgid ""
+"Primarily, the site is maintained and owned by <a href=\"http://blog.slepp."
+"ca/contact/\">Stephen 'slePP' Olesen</a>, with the server\n"
+"\tprovided by <a href=\"http://www.netmonks.ca/\">NetMonks Consulting "
+"Corporation</a>. All costs and operational overheads are paid by NetMonks "
+"Consulting,\n"
+"\tand all programming and service administration is done by Stephen. The "
+"domain name was paid for by William Suffill. German translation done by "
+"Michael \"laga\" Haas. French translation done by ZeBob."
+msgstr ""
+"Les site est essentiellement maintenu à jour par <a href=\"http://www."
+"netmonks.ca/contact/slepp.php\">Stephen 'slePP' Olesen</a>, avec le serveur "
+"fourni par <a href=\"http://www.netmonks.ca/\">NetMonks Consulting "
+"Corporation</a>. Tous les coûts de maintenance sont payés par NetMonks "
+"Consulting, et toute la programmation et la gestion des services sont "
+"réalisées par Stephen. Le nom de domaine est payé par William Suffill. La "
+"traduction allemande est faite par Michael ?Iaga? Haas. La traduction "
+"française est faite par ZeBob."
+
+#: ../what.php:58
+#, fuzzy
+msgid ""
+"If, however, you find a bug, or simply want to request a new feature, let <a "
+"href=\"http://blog.slepp.ca/contact/\">slePP</a> know."
+msgstr ""
+"Si, néanmoins, vous trouvez un bug, ou si simplement vous voulez proposer "
+"une nouvelle fonctionnalité, faites-le savoir à <a href=\"http://www."
+"netmonks.ca/contact/slepp.php\">slePP</a>."
+
+#: ../what.php:60
+#, fuzzy
+msgid ""
+"Please note that as this is a public forum which anyone can paste content "
+"to, NetMonks Consulting Corporation, its affiliates and employees are\n"
+"    not responsible for the content in any way. <a href=\"http://blog.slepp."
+"ca/contact/request-paste-removal/\">Requests for removal</a> will be "
+"honoured, but beyond that NetMonks Consulting Corporation assumes no\n"
+"\tliability."
+msgstr ""
+"Veuillez considérer qu comme c'est un forum public où tout le monde peut "
+"coller du contenu, NetMonks Consulting Corporation, ses filiales et ses "
+"employés ne sont pas responsable du contenu de n'importe quelle façon. Les "
+"demandes de supression seront honorées, mais au-delà de ça NetMonks "
+"Consulting Corporation n'assume aucune responsabilité."
+
+#~ msgid "last post"
+#~ msgstr "dernier message"
+
+#~ msgid "Total Trees With Children"
+#~ msgstr "Nombre total d'arbres avec enfants"
+
+#~ msgid "User Mgmt"
+#~ msgstr "Gestion D'Utilisateur"
+
+#~ msgid "Add a User"
+#~ msgstr "Ajoutez un Utilisateur"
+
+#~ msgid "Manage Users"
+#~ msgstr "Gestion des Utilisateurs"
+
+#~ msgid "Post: <i>%s</i> on %s (%s ago)"
+#~ msgstr "Message: <i>%s</i> le %s (il y a %s)"
+
+#~ msgid "Raw Content Download: "
+#~ msgstr "Télécharger le Contenu Raw:"
+
+#~ msgid "Entire Post Tree/Differences: "
+#~ msgstr "Arbre des messages complets/Différences: "
+
+#~ msgid "Descendants/Differences: "
+#~ msgstr "Descendants/Différences: "
+
+#~ msgid "<b>Note:</b> Please just paste the text into the text box below."
+#~ msgstr ""
+#~ "<b>Note:</b> Svp, collez simplement votre texte dans la zone de texte ci-"
+#~ "dessous."
+
+#~ msgid "Don't worry about long lines being wrapped in the view."
+#~ msgstr "Ne vous préoccuppez pas des longues lignes qui seront découpées."
+
+#~ msgid "(if left blank, it will be set for you randomly)"
+#~ msgstr "(si laissé vide, il sera mis au hasard pour vous)"
+
+#~ msgid "Entire Post Tree: "
+#~ msgstr "Arbre des messages complets"
+
+#~ msgid "Please enter your new post below:"
+#~ msgstr "Saississez votre nouveau message ci-dessous svp:"
+
+#~ msgid ""
+#~ "I don't know how you plan to enter a draw without providing a way to "
+#~ "contact you."
+#~ msgstr ""
+#~ "Je ne sais pas comment vous comptez participer à un concours sans fournir "
+#~ "un moyen de vous contacter"
+
+#~ msgid "you entered the draw"
+#~ msgstr "Vous participez au concours"
+
+#~ msgid "free movie draw"
+#~ msgstr "concours vidéo gratuite"
+
+#~ msgid "Does the Pastebin need a whiteboard?"
+#~ msgstr "Est-ce que Pastebin a besoin d'un tableau blanc?"
+
+#~ msgid "Should the Pastebin support images?"
+#~ msgstr "Est-ce que Pastebin devrait supporter l'inseration d'images?"
+
+#~ msgid "Yes, just small ones"
+#~ msgstr "Oui, juste des petites"
+
+#~ msgid "Yes, any size"
+#~ msgstr "Oui, n'importe quelle taille"
+
+#~ msgid "Should the Pastebin have more draws?"
+#~ msgstr "Est-ce que Pastebin devrait avoir plus de *draws*?"
+
+#~ msgid "Not for a movie!"
+#~ msgstr "Même pas en rêve!"
+
+#~ msgid "Does the Pastebin have too much stuff?"
+#~ msgstr "Est-ce que Pastebin a trop de trucs?"
+
+#~ msgid "Can never have too much"
+#~ msgstr "Ne pourra jamais en avoir trop"
+
+#~ msgid "Is the Pastebin ugly?"
+#~ msgstr "Est-ce que Pastebin est moche?"
+
+#~ msgid "Colours are bad"
+#~ msgstr "Les couleurs sont mauvaises"
+
+#~ msgid "Layout is bad"
+#~ msgstr "La disposition est mauvaise"
+
+#~ msgid "Simple, sweet, easy"
+#~ msgstr "Simple, attractif, facile"
+
+#~ msgid "Should the Pastebin provide diffs between pastes?"
+#~ msgstr "Est-ce que Pastebin devrait fournir diffs entre les collages?"
+
+#~ msgid "What's a diff?"
+#~ msgstr "Qu'est-ce que les diffs?"
+
+#~ msgid ""
+#~ "Should the Pastebin have a \"comments\" or \"forum\" section linked to "
+#~ "pastes?"
+#~ msgstr ""
+#~ "Est-ce que Pastebin devrait avoir une section \"commentaires\" ou \"forum"
+#~ "\" liés aux collages?"
+
+#~ msgid "Very simple ones"
+#~ msgstr "De très simples"
+
+#~ msgid "Full blown forums"
+#~ msgstr "Un forum complet"
+
+#~ msgid "Inline comment support"
+#~ msgstr "Des commentaires à la ligne"
+
+#~ msgid "Have you ever used the 'Upload a Post' feature?"
+#~ msgstr "Avez-vous déjà utilisé la fonction 'Uploader un Message'?"
+
+#~ msgid "Have you ever used the 'Search' feature?"
+#~ msgstr "Avez-vous déjà utilisé la fonction de recherche?"
+
+#~ msgid "Do you ever look in the post archives?"
+#~ msgstr "Est-ce que vous avez déjà regardé dans les archives des messages?"
+
+#~ msgid "Have you ever used the 'Raw Content Download feature?"
+#~ msgstr ""
+#~ "Avez-vous déjà utilisé la fonction de téléchargement du contenu Raw?"
+
+#~ msgid "Line wrapping is bad"
+#~ msgstr "La césure de ligne est mauvaise"
+
+#~ msgid "Should the Pastebin have a Wiki?"
+#~ msgstr "Est-ce que Pastebin doit avoir un Wiki?"
