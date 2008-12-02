@@ -1,4 +1,10 @@
 <?php
+/*
+  This file is part of the Pastebin package.
+  Copyright (c) 2003-2008, Stephen Olesen
+  All rights reserved.
+  More information is available at http://pastebin.ca/
+*/
 
 $path_extra = dirname(dirname(dirname(__FILE__)));
 $path = ini_get('include_path');

@@ -1,10 +1,10 @@
 <?php
-###
-### Pastebin.ca (c) 2003-2005 Stephen Olesen
-### All rights reserved.
-###
-### $Id: statistics.php 233 2005-05-05 20:46:56Z slepp $
-###
+/*
+  This file is part of the Pastebin package.
+  Copyright (c) 2003-2008, Stephen Olesen
+  All rights reserved.
+  More information is available at http://pastebin.ca/
+*/
 
 ### Overall Pastebin statistics
 
