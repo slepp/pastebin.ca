@@ -1,4 +1,11 @@
 <?php
+/*
+  This file is part of the Pastebin package.
+  Copyright (c) 2003-2008, Stephen Olesen
+  All rights reserved.
+  More information is available at http://pastebin.ca/
+*/
+
 class Duration {
 	var $_LongNames = array('year','month','week','day','hour','minute','second');
 	var $_ShortNames = array('yr','mth','wk','day','hr','min','sec');

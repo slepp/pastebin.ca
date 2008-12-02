@@ -1,4 +1,11 @@
 <?php
+/*
+  This file is part of the Pastebin package.
+  Copyright (c) 2003-2008, Stephen Olesen
+  All rights reserved.
+  More information is available at http://pastebin.ca/
+*/
+
 function _encrypt($key, $algo, $data) {
     $td = mcrypt_module_open($algo, '', 'cfb', '');
     $is = mcrypt_enc_get_iv_size($td);

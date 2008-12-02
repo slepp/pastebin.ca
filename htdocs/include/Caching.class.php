@@ -1,4 +1,11 @@
 <?php
+/*
+  This file is part of the Pastebin package.
+  Copyright (c) 2003-2008, Stephen Olesen
+  All rights reserved.
+  More information is available at http://pastebin.ca/
+*/
+
 /*abstract class CachingClass {
     abstract public static function find($id);
     abstract public static function &get($id);
