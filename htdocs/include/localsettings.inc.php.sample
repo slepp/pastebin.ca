@@ -7,4 +7,5 @@ define('CACHE_DIR', ROOT_DIR.'cache/');
 define('PDO_CONN_DSN', 'pgsql:host=localhost;dbname=pastebin');
 define('PDO_CONN_USER', 'pastebin');
 define('PDO_CONN_PASS', 'password');
+define('API_KEY_CRYPTO', 'somelongkeygoesheretoprotectapikeys');
 ?>
