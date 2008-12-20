@@ -11,14 +11,6 @@
 <div class="link"><a href="/archive1">{t}Archives{/t}</a></div>
 <div class="link"><a href="/tools.php">{t}Tools / APIs{/t}</a></div>
 <div class="link"><a href="/donate.php">{t}Donate{/t}</a>
-<div style="text-align:center;font-size:75%;background:#ddd">
-<b>Top Donations</b><br/>
-Anonymous: $100.00<br/>
-Roger W Turner: $50.00<br/>
-Tilghman J Lesher: $50.00<br/>
-Ben Finney: Private<br/>
-Leif Madsen: $20.00
-</div>
 </div>
 </div>
 </div>
