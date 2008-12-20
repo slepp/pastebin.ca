@@ -1,0 +1,31 @@
+These are really basic instructions, but they should help.
+
+First, requirements:
+
+1) PostgreSQL
+2) Lighttpd (or Apache 2)
+3) PHP
+
+To install the software, place it into a web directory, and then configure lighttpd
+with the rewrite rules needed:
+
+        server.document-root = "/web/pastebin.ca/htdocs"
+        accesslog.filename = var.logdir + "/pastebin.ca-access.log"
+        dir-listing.activate = "disable"
+
+        url.rewrite = (
+                "^/([0-9]+)([,'\".;]+)(\?.*)?" => "/$1$3",
+                "^/([0-9]+)(\.html?)?$" => "/index.php?id=$1",
+                "^/([0-9]+)(\.html?)?\?(.*)$" => "/index.php?id=$1&$3",
+                "^/([A-Z][0-9a-zA-Z-]{5,8})([,'\".;]+)(\?.*)?" => "/$1$3",
+                "^/([A-Z][0-9a-zA-Z-]{5,8})(\.html?)?$" => "/index.php?mask=$1",
+                "^/([A-Z][0-9a-zA-Z-]{5,8})(\.html?)?\?(.*)$" => "/index.php?mask=$1&$3",
+                "^/new(\.html?|\.php)?$" => "/index.php?a=n",
+                "^/archives?([0-9]+)(\.html?)?$" => "/archives.php?page=$1",
+                "^/tree([0-9]+)(\.html?|\.php)?$" => "/tree.php?tree=$1",
+                "^/desc([0-9]+)(\.html?|\.php)?$" => "/tree.php?id=$1",
+                "^/raw/([0-9]+)(\.html?|\.txt)?$" => "/raw.php/$1",
+                "^/rss/(.*)$" => "/rss.php/$1",
+                "^/download/(.*)$" => "/download.php/$1"
+        )
+        server.error-handler-404 = "/error404.php"
