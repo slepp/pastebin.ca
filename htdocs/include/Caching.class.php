@@ -55,7 +55,7 @@ class MemoryCache implements Cache {
     private static function &getMC() {
         if(MemoryCache::$mc == null) {
             MemoryCache::$mc = new Memcache;
-            MemoryCache::$mc->pconnect('127.0.0.1', '11213');
+            MemoryCache::$mc->pconnect('127.0.0.1', '11211');
         }
         return MemoryCache::$mc;
     }

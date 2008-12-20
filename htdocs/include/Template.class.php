@@ -10,7 +10,7 @@ require_once("localsettings.inc.php");
 require_once(SMARTY_DIR."/Smarty.class.php");
 require_once("PasteUtil.class.php");
 require_once("dates.inc.php");
-require_once("oid_inline_finish.inc.php");
+// require_once("oid_inline_finish.inc.php");
 require_once("gettext.inc.php");
 
 function smarty_block_dynamic($param, $content, &$smarty) {

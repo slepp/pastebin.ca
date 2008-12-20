@@ -47,7 +47,11 @@ class PDOStatementCaching extends PDOStatement {
     }
     
     function &cachedExecute($arr = null, $timeout = 30) {
-        $hash = 'sqlc'.hash('sha1', $this->queryString.serialize($arr));
+	if(function_exists('hash')) {
+	        $hash = 'sqlc'.hash('sha1', $this->queryString.serialize($arr));
+	} else {
+	        $hash = 'sqlc'.sha1($this->queryString.serialize($arr));
+	}
         if(MemoryCache::find($hash)) {
             return MemoryCache::get($hash);
         }
