@@ -4,7 +4,10 @@ First, requirements:
 
 1) PostgreSQL
 2) Lighttpd (or Apache 2)
-3) PHP
+3) PHP:
+    You need these modules: PDO, PDO PgSQL, Hash, Memcache, Tokenizer
+    PEAR modules: Auth/OpenID
+4) Memcached
 
 To install the software, place it into a web directory, and then configure lighttpd
 with the rewrite rules needed:
@@ -29,3 +32,10 @@ with the rewrite rules needed:
                 "^/download/(.*)$" => "/download.php/$1"
         )
         server.error-handler-404 = "/error404.php"
+
+
+Configuration:
+
+1) Copy localsettings.inc.php.sample to localsettings.inc.php in the htdocs/include/ directory
+2) Customize these values to your server
+
